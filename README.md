@@ -12,7 +12,9 @@ mail: guido@forloop.tech
 
 **Mid to senior frontend developer**
 Cliente: Soluzioni Futura
+
 https://www.soluzionifutura.it/
+
 https://www.linkedin.com/company/soluzioni-futura/
 
 **JOB:**
