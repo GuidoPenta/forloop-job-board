@@ -20,6 +20,7 @@ https://www.soluzionifutura.it/
 https://www.linkedin.com/company/soluzioni-futura/
 
 **JOB:**
+
 Soluzioni Futura è una realtà di 28 persone situata a Reggio Emilia che si occupa di sviluppo software, in particolare software web cloud-native altamente scalabile, DevOps e automazione di infrastruttura in cloud.
 Lavora con clienti italiani e internazionali che sono principalmente SaaS e tech company in generale, società di sviluppo software, finance e fintech, e-commerce. Startup e scale-up con attività prevalentemente nel digitale, nessuna piccola o media impresa tradizionale, zero pubblica amministrazione.
 
@@ -45,6 +46,7 @@ https://selfcommunity.com/
 https://www.linkedin.com/company/selfcommunity/
 
 **JOB:**
+
 Selfcommunity, prodotto sviluppato da Quentral SRL, è un social network B2B pensato sia come intranet aziendale sia come vero e proprio spazio social per gestire communities di varia natura.
 
 Sono alla ricerca di un profilo frontend con le seguenti conoscenze/competenze:
@@ -66,6 +68,7 @@ https://www.zoonect.com/
 https://www.linkedin.com/company/zoonect/
 
 **JOB:**
+
 Zoonect è piccola boutique di sviluppo software toscana che sviluppa sia progetti interni che progetti per clienti e startup 
 
 Sono alla ricerca di un profilo full stack con queste competenze:
