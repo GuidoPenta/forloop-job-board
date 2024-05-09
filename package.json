@@ -1,0 +1,15 @@
+{
+  "name": "forloop-job-board",
+  "version": "1.0.0",
+  "description": "Qui troverai tutti gli annunci di lavoro che sto gestendo per conto dei miei clienti.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
