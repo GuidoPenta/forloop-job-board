@@ -68,7 +68,7 @@ https://www.linkedin.com/company/zoonect/
 **JOB:**
 Zoonect è piccola boutique di sviluppo software toscana che sviluppa sia progetti interni che progetti per clienti e startup 
 
-sono alla ricerca di un profilo full stack con queste competenze:
+Sono alla ricerca di un profilo full stack con queste competenze:
 
 - Backend con Erlang+Elixir+Phoenix (o, in alternativa, Ruby+Rails, con conoscenza di hotwire+turbo)
 - Frontend con Js ed un framework fra React, Svelte o Vue
