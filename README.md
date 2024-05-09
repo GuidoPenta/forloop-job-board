@@ -36,9 +36,9 @@ Sono alla ricerca di un profilo Frontend middle to senior con le seguenti conosc
 
 Full remote, Indeterminato CCNL Commercio, buoni pasto da 8€, RAL 35-40k
 
+-----------------------
 
-
-**frontend developer**
+**Frontend developer**
 Cliente: Selfcommunity
 
 https://selfcommunity.com/
@@ -58,7 +58,7 @@ Sono alla ricerca di un profilo frontend con le seguenti conoscenze/competenze:
 
 Full Remote, forbice RAL 35-40k, Indeterminato CCNL Commercio, premi produzione a fine anno
 
-
+-----------------------------
 
 **full stack developer ruby**
 Cliente: Zoonect
