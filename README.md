@@ -36,7 +36,9 @@ Full remote, Indeterminato CCNL Commercio, buoni pasto da 8€, RAL 35-40k
 
 **frontend developer**
 Cliente: Selfcommunity
+
 https://selfcommunity.com/
+
 https://www.linkedin.com/company/selfcommunity/
 
 **JOB:**
@@ -53,7 +55,9 @@ Full Remote, forbice RAL 35-40k, Indeterminato CCNL Commercio, premi produzione 
 
 **full stack developer ruby**
 Cliente: Zoonect
+
 https://www.zoonect.com/
+
 https://www.linkedin.com/company/zoonect/
 
 **JOB:**
