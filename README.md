@@ -8,7 +8,9 @@ LinkedIn: https://www.linkedin.com/in/guido-penta/
 mail: guido@forloop.tech
 
 
-**mid to senior frontend developer**
+
+
+**Mid to senior frontend developer**
 Cliente: Soluzioni Futura
 https://www.soluzionifutura.it/
 https://www.linkedin.com/company/soluzioni-futura/
