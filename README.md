@@ -15,9 +15,9 @@ Se invece sei un'azienda e sei curioso/a di sapere se forloop può aiutarti nel 
 **Mid to senior frontend developer**
 Cliente: Soluzioni Futura
 
-https://www.soluzionifutura.it/
+[https://www.soluzionifutura.it/](https://www.soluzionifutura.it/)
 
-https://www.linkedin.com/company/soluzioni-futura/
+[https://www.linkedin.com/company/soluzioni-futura/](ttps://www.linkedin.com/company/soluzioni-futura/)
 
 **JOB:**
 
