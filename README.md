@@ -8,6 +8,7 @@ LinkedIn: https://www.linkedin.com/in/guido-penta/
 mail: guido@forloop.tech
 
 
+.................................................................................................................................
 
 
 **Mid to senior frontend developer**
