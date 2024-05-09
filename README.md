@@ -7,6 +7,7 @@ Telegram: @guidopenta
 LinkedIn: https://www.linkedin.com/in/guido-penta/
 mail: guido@forloop.tech
 
+Se invece sei un'azienda e sei curioso/a di sapere se forloop può aiutarti nel tech recruiting, trovi tutto qui: https://forloop.tech 
 
 .................................................................................................................................
 
