@@ -2,7 +2,7 @@
 
 Qui troverai tutti gli annunci di lavoro che sto gestendo per conto dei miei clienti.
 
-Se sei interessato/a a candidarti, mi trovi qui:
+Se sei interessato/a a candidarti (o anche se sei in ricerca attiva e vuoi condividermi il tuo CV per una futura candidatura) mi trovi qui:
 Telegram: @guidopenta
 LinkedIn: https://www.linkedin.com/in/guido-penta/
 mail: guido@forloop.tech
@@ -75,4 +75,11 @@ sono alla ricerca di un profilo full stack con queste competenze:
   
 Forbice RAL 35-50k, full remote, CCNL Commercio, buoni pasto 6€, premi di produzione, lavoro async
 
+----------------------------------------------------------------------------------------------------------------------------------------
 
+Ricerche concluse (con successo 😎)
+
+Devops, 40-45k, cliente: Selfcommunity
+Senior Data Engineer, 45-50K, cliente: Fitprime
+Frontend developer, 35-40k, cliente: Redokun
+Frontend developer, 40-45k, cliente: Fitprime
