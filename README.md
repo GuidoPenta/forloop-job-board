@@ -7,7 +7,7 @@ Se sei interessato/a a candidarti (o anche se sei in ricerca attiva e vuoi condi
 - [LinkedIn](https://www.linkedin.com/in/guido-penta/)
 - [mail](guido@forloop.tech)
 
-Se invece sei un'azienda e sei curioso/a di sapere se forloop può aiutarti nel tech recruiting, trovi tutto qui: https://forloop.tech 
+Se invece sei un'azienda e sei curioso/a di sapere se forloop può aiutarti nel tech recruiting, trovi il nostro sito [qui](https://forloop.tech)
 
 .................................................................................................................................
 
