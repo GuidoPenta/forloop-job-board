@@ -4,8 +4,8 @@ Qui troverai tutti gli annunci di lavoro che sto gestendo per conto dei miei cli
 
 Se sei interessato/a a candidarti (o anche se sei in ricerca attiva e vuoi condividermi il tuo CV per una futura candidatura) mi trovi qui:
 - Telegram: @guidopenta
-- LinkedIn: https://www.linkedin.com/in/guido-penta/
-- mail: guido@forloop.tech
+- [LinkedIn](https://www.linkedin.com/posts/robertazantedeschi_cv-curriculum-parolepersonelavoro-activity-7034528956879974400-kGoE?utm_source=share&utm_medium=member_desktop](https://www.linkedin.com/in/guido-penta/)
+- [mail](guido@forloop.tech)
 
 Se invece sei un'azienda e sei curioso/a di sapere se forloop può aiutarti nel tech recruiting, trovi tutto qui: https://forloop.tech 
 
