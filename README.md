@@ -79,7 +79,7 @@ Forbice RAL 35-50k, full remote, CCNL Commercio, buoni pasto 6€, premi di prod
 
 Ricerche concluse (con successo 😎)
 
-Devops, 40-45k, cliente: Selfcommunity
-Senior Data Engineer, 45-50K, cliente: Fitprime
-Frontend developer, 35-40k, cliente: Redokun
-Frontend developer, 40-45k, cliente: Fitprime
+- Devops, 40-45k, cliente: Selfcommunity
+- Senior Data Engineer, 45-50K, cliente: Fitprime
+- Frontend developer, 35-40k, cliente: Redokun
+- Frontend developer, 40-45k, cliente: Fitprime
