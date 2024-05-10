@@ -1,6 +1,6 @@
 # forloop.tech job board
 
-Qui troverai tutti gli annunci di lavoro che sto gestendo per conto dei miei clienti.
+Qui troverai tutte le posizioni che sto gestendo per conto delle mie aziende clienti.
 
 Se sei interessato/a a candidarti (o anche se sei in ricerca attiva e vuoi condividermi il tuo CV per una futura candidatura) mi trovi qui:
 - Telegram: @guidopenta
