@@ -20,7 +20,7 @@ Cliente: Soluzioni Futura
 
 [https://www.soluzionifutura.it/](https://www.soluzionifutura.it/)
 
-[https://www.linkedin.com/company/soluzioni-futura/](ttps://www.linkedin.com/company/soluzioni-futura/)
+[https://www.linkedin.com/company/soluzioni-futura/](https://www.linkedin.com/company/soluzioni-futura/)
 
 **JOB:**
 
