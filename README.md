@@ -4,7 +4,7 @@ Ciao e benvenuto/a!
 
 Qui troverai tutte le posizioni che sto attualmente gestendo per conto delle mie aziende clienti.
 
-Se sei interessato/a a candidarti (o anche se sei in ricerca attiva e vuoi condividermi il tuo CV per una futura candidatura) mi trovi qui:
+Se sei interessato/a a candidarti (o anche se sei in ricerca attiva e vuoi condividermi il tuo CV per una futura candidatura) puoi contattarmi qui:
 - [Telegram](https://t.me/guidopenta)
 - [LinkedIn](https://www.linkedin.com/in/guido-penta/)
 - [mail](guido@forloop.tech)
@@ -29,7 +29,7 @@ Lavora con clienti italiani e internazionali che sono principalmente SaaS e tech
 
 Le tecnologie principali che vengono usate in azienda sono: TypeScript nel frontend e nel backend, con frontend basati principalmente su React, Next.js (in particolare 13 e 14) e htmx. In base alle esigenze di progetto, all'occorrenza si lavora anche con altri stack (abbiamo progetti importanti basati su Python con Django, PHP, applicativi mobile con componenti native).
 
-Sono alla ricerca di un profilo Frontend middle to senior con le seguenti conoscenze/competenze:
+La figura ricercata è di un/una Front-end developer middle to senior con le seguenti conoscenze/competenze:
 
 - Ottima conoscenza di HTML e CSS, linguaggi ed ecosistema
 - Ottima conoscenza di TypeScript
@@ -52,7 +52,7 @@ Cliente: Selfcommunity
 
 Selfcommunity, prodotto sviluppato da Quentral SRL, è un social network B2B pensato sia come intranet aziendale sia come vero e proprio spazio social per gestire communities di varia natura.
 
-Sono alla ricerca di un profilo frontend con le seguenti conoscenze/competenze:
+La figura ricercata è di un/una Front-end developer con le seguenti conoscenze/competenze:
 
 - Js
 - React
@@ -63,7 +63,7 @@ Full Remote, forbice RAL 35-40k, Indeterminato CCNL Commercio, premi produzione 
 
 -----------------------------
 
-**full stack developer ruby**
+**Full stack developer (Ruby)**
 Cliente: Zoonect
 
 [https://www.zoonect.com/](https://www.zoonect.com/)
@@ -72,9 +72,9 @@ Cliente: Zoonect
 
 **JOB:**
 
-Zoonect è piccola boutique di sviluppo software toscana che sviluppa sia progetti interni che progetti per clienti e startup 
+Zoonect è piccola boutique di sviluppo software toscana che sviluppa sia progetti interni, sia progetti per clienti e startup.
 
-Sono alla ricerca di un profilo full stack con queste competenze:
+La figura ricercata è di un/una Full-stack developer con queste competenze:
 
 - Backend con Erlang+Elixir+Phoenix (o, in alternativa, Ruby+Rails, con conoscenza di hotwire+turbo)
 - Frontend con Js ed un framework fra React, Svelte o Vue
