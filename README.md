@@ -1,15 +1,18 @@
 # forloop.tech job board
 
-Qui troverai tutte le posizioni che sto gestendo per conto delle mie aziende clienti.
+Ciao e benvenuto/a!
+
+Qui troverai tutte le posizioni che sto attualmente gestendo per conto delle mie aziende clienti.
 
 Se sei interessato/a a candidarti (o anche se sei in ricerca attiva e vuoi condividermi il tuo CV per una futura candidatura) mi trovi qui:
 - Telegram: @guidopenta
 - [LinkedIn](https://www.linkedin.com/in/guido-penta/)
 - [mail](guido@forloop.tech)
 
-Se invece sei un'azienda e sei curioso/a di sapere se forloop può aiutarti nel tech recruiting, trovi il nostro sito [qui](https://forloop.tech)
 
 .................................................................................................................................
+
+# Posizioni aperte
 
 
 **Mid to senior frontend developer**
