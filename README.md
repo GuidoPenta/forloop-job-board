@@ -34,7 +34,7 @@ Sono alla ricerca di un profilo Frontend middle to senior con le seguenti conosc
 - Esperienza con React e conoscenza di Next.js 14, in particolare rendering server-side, React Server Components, Server Actions, oppure esperienza con rendering server-side e htmx
 - Buona conoscenza del protocollo HTTP, delle API del browser e dell'ecosistema del web in generale.
 
-Full remote, Indeterminato CCNL Commercio, buoni pasto da 8€, RAL 35-40k
+Full remote, Indeterminato CCNL Commercio, buoni pasto da 8€, RAL 35-40k+
 
 -----------------------
 
