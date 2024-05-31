@@ -7,7 +7,7 @@ Qui troverai tutte le posizioni che sto attualmente gestendo per conto delle mie
 Se sei interessato/a a candidarti (o anche se sei in ricerca attiva e vuoi condividermi il tuo CV per una futura candidatura) puoi contattarmi qui:
 - [Telegram](https://t.me/guidopenta)
 - [LinkedIn](https://www.linkedin.com/in/guido-penta/)
-- [mail](guido@forloop.tech)
+- [Mail](guido@forloop.tech)
 
 
 .................................................................................................................................
