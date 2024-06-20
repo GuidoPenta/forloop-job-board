@@ -37,6 +37,37 @@ La figura ricercata è di un Java developer (junior 2+anni di exp fino al senior
 Ibrido 3+2 sulle tre sedi, Indeterminato CCNL Metalmeccanico, assicurazione sanitaria, budget per formazione e certificazioni AWS, forbice RAL 35-40k+
 
 
+**Devsecops**
+Cliente: Algo Interview
+
+[https://algointerview.it](https://algointerview.it)
+
+[https://www.linkedin.com/products/algojob-algo-interview/](https://www.linkedin.com/products/algojob-algo-interview/)
+
+**JOB:**
+
+Per https://www.algointerview.it/ , startup che lavora in ambito HR  e valutazione delle competenze, cerco un/una Devsecops:
+Full remote, forbice 55-75k +variabile, budget formazione 500€/anno, stock, CCNL 1 lvl commercio
+
+Responsabilità principali previste:
+- Implementazione pipeline CI/CD con GitHub Actions
+- Gestione DB MySQL in AWS
+- Integrazione AWS (EC2, RDS, S3, IAM, CloudFormation)
+- Mantenere aggiornata la documentazione condivisa con i clienti in conformità con gli standard GDPR e di compliance e di conservazione dei dati
+- Sviluppare delle buone pratiche di knowledge sharing interne all'azienda in materia devops e sicurezza
+
+Qualifiche essenziali:
+- Esperienza comprovata in ambienti DevOps/DevSecOps, con un forte background in programmazione Node.js in Typescript e gestione di database MySQL.
+- Profonda conoscenza di AWS, inclusa l’esperienza con i suoi servizi principali (EC2, Aurora, S3, IAM, ecc.).
+- Solida esperienza nell’uso di GitHub Actions o altri strumenti simili per CI/CD.
+- Conoscenza approfondita delle best practices di sicurezza in AWS, con capacità di implementare e mantenere soluzioni di sicurezza avanzate.
+- Sicurezza: conoscenza di procedure DAST, SAST, SCA, Test reporting, IAST, Docker Images vulnerability management, threat protection, cluster policies
+
+Nice to have:
+Certificazioni AWS: Certificazioni AWS, preferibilmente AWS Certified DevOps Engineer – Professional o AWS Certified Solutions Architect – Associate.
+Containerizzazione: Esperienza con la containerizzazione Docker
+Competenze di Monitoraggio: Conoscenza degli strumenti di monitoraggio e logging AWS, inclusi Amazon CloudWatch e AWS X-Ray.
+
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
