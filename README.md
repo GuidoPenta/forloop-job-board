@@ -82,13 +82,19 @@ E' previsto inoltre un premio di produzione di 2-3k annui, buoni pasto da 7€/g
 **JOBS**
 
 **Back-end developer, junior to middle, fino a 37k di RAL**
+
+
 DI COSA TI OCCUPERAI
+
+
 La figura del Backend Developer sarà responsabile dello sviluppo, manutenzione e ottimizzazione delle nostre applicazioni server-side utilizzando TypeScript ed Express.js. 
 Collaborerai strettamente con i team di frontend, progettazione e prodotto per garantire l'integrazione e il funzionamento fluido delle API e dei servizi backend. 
 Sarà tuo compito scrivere codice riutilizzabile, testabile e pulito , risolvere problemi tecnici e contribuire a fornire soluzioni software di alta qualità ai nostri utenti. 
 La tua partecipazione attiva nelle revisioni del codice e nell'implementazione delle best practice di sviluppo backend sarà fondamentale per il successo del nostro team.
 
 QUALIFICHE ESSENZIALI:
+
+
 Almeno 3-4 anni di esperienza comprovata nello sviluppo backend utilizzando TypeScript ed Express.js.
 Solida conoscenza di JavaScript e TypeScript.
 Esperienza con la progettazione e l'implementazione di API RESTful.
@@ -99,6 +105,8 @@ Capacità di lavorare con strumenti di controllo versione, come Git.
 Capacità di lavorare sia in modo indipendente che all'interno di un team.
 
 RESPONSABILITÀ PREVISTE
+
+
 Sviluppare, mantenere e ottimizzare le applicazioni server-side utilizzando TypeScript ed Express.js.
 Progettare e implementare API RESTful per le applicazioni frontend.
 Collaborare con i team di frontend, progettazione e prodotto per garantire un'integrazione fluida.
@@ -107,12 +115,18 @@ Assicurarsi che le applicazioni siano ottimizzate per le migliori performance e 
 
 
 **QA Engineer, fino a 45k di RAL**
+
+
 DI COSA TI OCCUPERAI
+
+
 La figura QA sarà responsabile di garantire la qualità dei prodotti attraverso test approfonditi e processi di controllo. 
 Collaborerà strettamente con il team di sviluppo per identificare, documentare e risolvere i problemi, contribuendo così a fornire soluzioni software impeccabili agli investitori. 
 La partecipazione attiva alla definizione di strategie di testing e l'automatizzazione dei test saranno parte integrante del ruolo, garantendo una continua ottimizzazione dei processi di sviluppo.
 
 IL CANDIDATO IDEALE HA
+
+
 Almeno 3 anni di esperienza comprovata come Quality Assurance Engineer.
 Conoscenza approfondita dei processi e delle metodologie di testing.
 Capacità di creare piani di test dettagliati e casi di test.
@@ -120,6 +134,8 @@ Esperienza nell'automatizzare i test tramite playwright, Cypress, Selenium.
 Familiarità con gli ambienti di sviluppo agile.
 
 RESPONSABILITÀ PREVISTE
+
+
 Eseguire test funzionali e non funzionali su software e applicazioni.
 Creare, implementare e mantenere script di test automatizzati.
 Collaborare con il team di sviluppo per identificare i bug.
@@ -127,12 +143,18 @@ Partecipare attivamente alle riunioni di pianificazione e revisione del prodotto
 
 
 Mobile Developer, fino a 45k di RAL
+
+
 DI COSA TI OCCUPERAI
+
+
 La figura del React Native Developer sarà responsabile dello sviluppo e della manutenzione delle applicazioni mobile utilizzando React Native. 
 Collaborerà strettamente con i team di progettazione, prodotto e backend per creare nuove funzionalità e migliorare quelle esistenti. 
 Sarà suo compito scrivere codice riutilizzabile, testabile e pulito, risolvere problemi tecnici e contribuire a fornire soluzioni software di alta qualità agli investitori.
 
 IL CANDIDATO IDEALE HA
+
+
 Almeno 4-5 anni di esperienza comprovata nello sviluppo di applicazioni mobile utilizzando React Native.
 Solida conoscenza di JavaScript e dei framework di sviluppo front-end.
 Conoscenza approfondita del ciclo di vita delle applicazioni mobile.
@@ -141,6 +163,8 @@ Comprensione delle migliori pratiche di sviluppo mobile, inclusi design responsi
 Capacità di lavorare sia in modo indipendente che all'interno di un team.
 
 RESPONSABILITÀ
+
+
 Sviluppare e mantenere applicazioni mobile utilizzando React Native.
 Risolvere problemi tecnici e debug di applicazioni esistenti.
 Effettuare test di unità e integrazione per garantire l'alta qualità del software.
