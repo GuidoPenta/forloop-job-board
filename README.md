@@ -37,6 +37,7 @@ La figura ricercata è di un Java developer (junior 2+anni di exp fino al senior
 Ibrido 3+2 sulle tre sedi, Indeterminato CCNL Metalmeccanico, assicurazione sanitaria, budget per formazione e certificazioni AWS, forbice RAL 35-40k+
 
 
+
 **Devsecops**
 Cliente: Algo Interview
 
@@ -69,12 +70,15 @@ Containerizzazione: Esperienza con la containerizzazione Docker
 Competenze di Monitoraggio: Conoscenza degli strumenti di monitoraggio e logging AWS, inclusi Amazon CloudWatch e AWS X-Ray.
 
 
-**Back-end Developer** **QA Engineer** **Mobile Developer** 
+
+
+**Back-end Developer** / **QA Engineer** / **Mobile Developer** 
 Cliente: Recrowd
 
 [https://recrowd.com](https://recrowd.com)
 
 [https://www.linkedin.com/company/recrowditalia/](https://www.linkedin.com/company/recrowditalia)
+
 
 Per tutte le posizioni è previsto un ibrido MOLTO rilassato 1-2 volte a settimana su Milano o, in alternativa, 1-2 giorni ogni due settimane per chi è fuori Milano. 
 E' previsto inoltre un premio di produzione di 2-3k annui, buoni pasto da 7€/giorno, hardware a scelta.
@@ -87,10 +91,10 @@ E' previsto inoltre un premio di produzione di 2-3k annui, buoni pasto da 7€/g
 DI COSA TI OCCUPERAI
 
 
-La figura del Backend Developer sarà responsabile dello sviluppo, manutenzione e ottimizzazione delle nostre applicazioni server-side utilizzando TypeScript ed Express.js. 
-Collaborerai strettamente con i team di frontend, progettazione e prodotto per garantire l'integrazione e il funzionamento fluido delle API e dei servizi backend. 
-Sarà tuo compito scrivere codice riutilizzabile, testabile e pulito , risolvere problemi tecnici e contribuire a fornire soluzioni software di alta qualità ai nostri utenti. 
-La tua partecipazione attiva nelle revisioni del codice e nell'implementazione delle best practice di sviluppo backend sarà fondamentale per il successo del nostro team.
+- La figura del Backend Developer sarà responsabile dello sviluppo, manutenzione e ottimizzazione delle nostre applicazioni server-side utilizzando TypeScript ed Express.js. 
+- Collaborerai strettamente con i team di frontend, progettazione e prodotto per garantire l'integrazione e il funzionamento fluido delle API e dei servizi backend. 
+- Sarà tuo compito scrivere codice riutilizzabile, testabile e pulito , risolvere problemi tecnici e contribuire a fornire soluzioni software di alta qualità ai nostri utenti. 
+- La tua partecipazione attiva nelle revisioni del codice e nell'implementazione delle best practice di sviluppo backend sarà fondamentale per il successo del nostro team.
 
 
 SEI LA PERSONA GIUSTA SE HAI:
@@ -121,9 +125,9 @@ RESPONSABILITÀ PREVISTE:
 DI COSA TI OCCUPERAI:
 
 
-La figura QA sarà responsabile di garantire la qualità dei prodotti attraverso test approfonditi e processi di controllo. 
-Collaborerà strettamente con il team di sviluppo per identificare, documentare e risolvere i problemi, contribuendo così a fornire soluzioni software impeccabili agli investitori. 
-La partecipazione attiva alla definizione di strategie di testing e l'automatizzazione dei test saranno parte integrante del ruolo, garantendo una continua ottimizzazione dei processi di sviluppo.
+- La figura QA sarà responsabile di garantire la qualità dei prodotti attraverso test approfonditi e processi di controllo. 
+- Collaborerà strettamente con il team di sviluppo per identificare, documentare e risolvere i problemi, contribuendo così a fornire soluzioni software impeccabili agli investitori. 
+- La partecipazione attiva alla definizione di strategie di testing e l'automatizzazione dei test saranno parte integrante del ruolo, garantendo una continua ottimizzazione dei processi di sviluppo.
 
 
 SEI LA PERSONA GIUSTA SE HAI:
@@ -150,9 +154,9 @@ Mobile Developer, fino a 45k di RAL
 DI COSA TI OCCUPERAI:
 
 
-La figura del React Native Developer sarà responsabile dello sviluppo e della manutenzione delle applicazioni mobile utilizzando React Native. 
-Collaborerà strettamente con i team di progettazione, prodotto e backend per creare nuove funzionalità e migliorare quelle esistenti. 
-Sarà suo compito scrivere codice riutilizzabile, testabile e pulito, risolvere problemi tecnici e contribuire a fornire soluzioni software di alta qualità agli investitori.
+- La figura del React Native Developer sarà responsabile dello sviluppo e della manutenzione delle applicazioni mobile utilizzando React Native. 
+- Collaborerà strettamente con i team di progettazione, prodotto e backend per creare nuove funzionalità e migliorare quelle esistenti. 
+- Sarà suo compito scrivere codice riutilizzabile, testabile e pulito, risolvere problemi tecnici e contribuire a fornire soluzioni software di alta qualità agli investitori.
 
 SEI LA PERSONA GIUSTA SE HAI:
 
@@ -167,10 +171,10 @@ SEI LA PERSONA GIUSTA SE HAI:
 RESPONSABILITÀ:
 
 
-Sviluppare e mantenere applicazioni mobile utilizzando React Native.
-Risolvere problemi tecnici e debug di applicazioni esistenti.
-Effettuare test di unità e integrazione per garantire l'alta qualità del software.
-Assicurarsi che le applicazioni siano ottimizzate per le migliori performance e compatibilità su diverse piattaforme.
+- Sviluppare e mantenere applicazioni mobile utilizzando React Native.
+- Risolvere problemi tecnici e debug di applicazioni esistenti.
+- Effettuare test di unità e integrazione per garantire l'alta qualità del software.
+- Assicurarsi che le applicazioni siano ottimizzate per le migliori performance e compatibilità su diverse piattaforme.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
