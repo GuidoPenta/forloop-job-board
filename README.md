@@ -36,7 +36,7 @@ La figura ricercata è di un Java developer (junior 2+anni di exp fino al senior
 
 Ibrido 3+2 sulle tre sedi, Indeterminato CCNL Metalmeccanico, assicurazione sanitaria, budget per formazione e certificazioni AWS, forbice RAL 35-40k+
 
-
+------------------------------------------------------------------------------------------------------
 
 **Devsecops**
 Cliente: Algo Interview
@@ -69,8 +69,7 @@ Certificazioni AWS: Certificazioni AWS, preferibilmente AWS Certified DevOps Eng
 Containerizzazione: Esperienza con la containerizzazione Docker
 Competenze di Monitoraggio: Conoscenza degli strumenti di monitoraggio e logging AWS, inclusi Amazon CloudWatch e AWS X-Ray.
 
-
-
+------------------------------------------------------------------------------------------------------
 
 **Back-end Developer** / **QA Engineer** / **Mobile Developer** 
 Cliente: Recrowd
@@ -139,6 +138,7 @@ SEI LA PERSONA GIUSTA SE HAI:
 - Esperienza nell'automatizzare i test tramite playwright, Cypress, Selenium.
 - Familiarità con gli ambienti di sviluppo agile.
 
+
 RESPONSABILITÀ PREVISTE:
 
 
@@ -148,7 +148,7 @@ RESPONSABILITÀ PREVISTE:
 - Partecipare attivamente alle riunioni di pianificazione e revisione del prodotto.
 
 
-Mobile Developer, fino a 45k di RAL
+**Mobile Developer, fino a 45k di RAL**
 
 
 DI COSA TI OCCUPERAI:
@@ -157,6 +157,7 @@ DI COSA TI OCCUPERAI:
 - La figura del React Native Developer sarà responsabile dello sviluppo e della manutenzione delle applicazioni mobile utilizzando React Native. 
 - Collaborerà strettamente con i team di progettazione, prodotto e backend per creare nuove funzionalità e migliorare quelle esistenti. 
 - Sarà suo compito scrivere codice riutilizzabile, testabile e pulito, risolvere problemi tecnici e contribuire a fornire soluzioni software di alta qualità agli investitori.
+
 
 SEI LA PERSONA GIUSTA SE HAI:
 
@@ -167,6 +168,7 @@ SEI LA PERSONA GIUSTA SE HAI:
 - Esperienza con l'integrazione di API RESTful.
 - Comprensione delle migliori pratiche di sviluppo mobile, inclusi design responsive, UI/UX e accessibilità.
 - Capacità di lavorare sia in modo indipendente che all'interno di un team.
+
 
 RESPONSABILITÀ:
 
