@@ -15,6 +15,59 @@ Se sei interessato/a a candidarti (o anche se sei in ricerca attiva e vuoi condi
 # Posizioni aperte
 
 
+**Tech Lead**
+Cliente: Redokun
+
+[https://www.redokun.com/](https://www.redokun.com/)
+
+[https://www.linkedin.com/company/redokun/](https://www.linkedin.com/company/redokun/)
+
+**JOB:**
+
+Redokun è una piattaforma SaaS b2b che permette a team distribuiti di collaborare assieme e lavorare nell'ambito delle traduzioni.
+
+Per loro sono alla ricerca un/una Tech Lead che lavorerà all'interno di un team distribuito nel mondo. **INGLESE MANDATORY!**
+
+
+**Responsabilità principali previste dal ruolo:**
+
+
+- coordinare un team di 3 dev (2 back-end e 1 front-end)
+- direzione tecnica dei progetti, fungendo da ponte fra management ed engineering
+- Condurre regolari code review
+- Condurre regolari 1:1 con il team per garantire comunicazione, feedback e crescita 
+
+
+**Requisiti e competenze tecniche:**  
+
+
+- Forte conoscenza tecnica ambito front-end (HTML, CSS, Js, React, Redux, RTK query) e back-end (PHP, Symfony o Laminas/Zend) database (MySql o PostgreSQL)
+- Familiarità con strumenti di CI/CD, Docker e cloud (AWS o Azure)
+- Precedenti esperienze in ruoli di leadership tecnica e people management
+- Eccellenti capacità di comunicazione, gestione dei feedback, team working
+- Abitudine al lavoro da remoto e lavoro async, organizzazione del tempo e dei task
+- Ottima conoscenza dell'inglese parlato e scritto
+
+
+**Nice to have:**
+
+
+- Provenienza da aziende di prodotto/scaleup 
+- Esperienza su SaaS
+
+
+**Cosa offre l'azienda:**
+
+
+- Full remote
+- Forbice RAL 50-60k
+- 800€/anno per formazione-conf-eventi
+- Lavoro async quasi al 100%, essendo il team e 'azienda tutta distribuita in varie parti del mondo
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+
 **Senior Full Stack Developer (.NET, Angular, Azure)**
 Cliente: Gipo-Miodottore
 
