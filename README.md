@@ -15,6 +15,52 @@ Se sei interessato/a a candidarti (o anche se sei in ricerca attiva e vuoi condi
 # Posizioni aperte
 
 
+**Senior Software Engineer**
+Cliente: Orama
+
+[https://www.askorama.ai/](https://www.askorama.ai/)
+
+[https://www.linkedin.com/company/askorama/](https://www.linkedin.com/company/askorama/)
+
+**JOB:**
+
+Orama è alla ricerca di un/una Senior Software Engineer:
+
+
+Full remote, RAL 70-75k + stock + unlimited PTO (è ok qualsiasi timezone EU oppure USA, se fuori dagli USA si viene assunti tramite un EoR, ovvero Deel) o anche p iva 100k
+
+
+**Required knowledge and skills:**
+
+
+- Expertise with JavaScript and TypeScript is mandatory
+- Good knowledge of Node.js, Deno, or any other major JavaScript runtime.
+- Good knowledge of how reactive frameworks like React, Vue, and Stencil work.
+- Working proficiency in English
+
+
+**Nice to have:**
+
+  
+- Experience with WebAssembly is a strong plus
+- Experience with Cloudflare Workers and/or AWS/GCP is a strong plus
+- Knowledge of how RAG systems work is a strong plus
+- Knowledge of LLMs, ML techniques, and AI in general is a strong plus
+
+
+**Key responsibilities:**
+
+  
+- Building the front-end for highly dynamic user experiences, such as search boxes, answer engine applications, and more
+- Work on the Orama Cloud dashboard to implement new features
+- Implement Orama on different tools (such as Docusaurus, Vitepress, Nextra, etc.)
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+
+
 **Tech Lead**
 Cliente: Redokun
 
