@@ -288,7 +288,7 @@ RESPONSABILITÀ PREVISTE:
 - Assicurarsi che le applicazioni siano ottimizzate per le migliori performance e sicurezza.
 
 
-**QA Engineer, fino a 45k di RAL**
+**QA Engineer, fino a 50k di RAL**
 
 
 DI COSA TI OCCUPERAI:
