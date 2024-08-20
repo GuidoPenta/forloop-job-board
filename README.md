@@ -108,7 +108,7 @@ Per loro sono alla ricerca un/una Tech Lead che lavorerà all'interno di un team
 - Full remote
 - Forbice RAL 50-60k
 - 800€/anno per formazione-conf-eventi
-- Lavoro async quasi al 100%, essendo il team e 'azienda tutta distribuita in varie parti del mondo
+- Lavoro async quasi al 100%, essendo il team distribuitìo in varie parti del mondo
 
 
 
