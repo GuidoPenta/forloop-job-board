@@ -112,76 +112,6 @@ Per loro sono alla ricerca un/una Tech Lead che lavorerà all'interno di un team
 
 
 
-----------------------------------------------------------------------------------------------------------------------------------
-
-**Senior Full Stack Developer (.NET, Angular, Azure)**
-Cliente: Gipo-Miodottore
-
-[https://www.gipo.it/](https://www.gipo.it/)
-
-[https://www.linkedin.com/company/gipo-miodottore/](https://www.linkedin.com/company/gipo-miodottore/)
-
-**JOB:**
-
-Gipo è il PMS (Patient Management System) più utilizzato dai centri medici in Italia. Sviluppato da Ianiri Informatica, una delle società all’interno del gruppo Docplanner, è presente in Italia come MioDottore.it.
-
-Per loro sono alla ricerca di un/una Senior **Full stack Developer (.NET/Angular/Azure)**
-
-**Lo Stack**
-
-- La piattaforma è costruita su ASP.NET e MSSQL, e stanno migrando le funzionalità come slice verticali da ASP.NET MVC 5 a .NET 8 con un approccio Domain Driven Design per il backend e Angular 18, facendo largo uso di signals e state management come NgRx, per il frontend.
-- Rilasciano su Azure PaaS i servizi come container Docker e sfruttano gli altri servizi cloud, come Azure Service Bus, Azure SQL e Azure Storage, per scalare in modo elastico l'infrastruttura.
-- Sfruttano le architetture modular monolith e microservizi per distribuire al meglio i carichi di lavoro e le responsabilità, impiegando MediatR, Mass Transit e CQRS per implementare la comunicazione tra servizi e moduli.
-- I repository git sono in CI e CD su Azure DevOps con pipeline che effettuano test automatici e rilasciano negli ambienti di test quando pronte.
-
-
-**Descrizione del ruolo**
-
-
-- Partecipa attivamente alla progettazione di soluzioni full-stack moderne, alternando architetture modular monolith e microservizi e utilizzando un approccio Domain Driven Design
-- Collabora attivamente alla definizione dell’architettura software dei nuovi servizi e perfeziona quella dei servizi esistenti
-- Lavora in un team cross-funzionale che si occupa di analizzare, pianificare, progettare, sviluppare e rilasciare nuove funzionalità
-- Sviluppa soluzioni software distribuite scalabili, testabili (tramite test automatizzati), pronte per essere rilasciate in cloud
-- Adotta una mentalità kaizen per migliorare continuamente il tuo lavoro e quello del team
-
-
-**Requisiti (must have)**
-
-
-- Ottima padronanza di concetti OOP (design patterns, best practices)
-- Ottima conoscenza di C# e .NET
-- Ottima padronanza dei concetti relativi a unit e integration testing
-- Esperienza in TypeScript e un framework per SPA
-- Buona conoscenza di algoritmi e strutture dati di base
-- Esperienza in ASP.NET Core
-- Padronanza dei principi di design di API RESTful
-- Conoscenza database relazionali (Microsoft SQL Server)
-- Esperienza con GIT o altre tecnologie similari
-
-
-**Nice to have**
-
-
-- Esperienza in PaaS Microsoft Azure o altri cloud provider
-- Esperienza nell’utilizzo di Docker e container
-- Esperienza con ORM (Entity Framework o altri)
-- Esperienza con framework event-driven e/o asincroni (es. MassTransit, NServiceBus, etc)
-- Esperienza con approcci DDD e architetture CQRS, Event Sourcing e similari
-- Esperienza con state management per applicazioni front-end (Redux, NgRx, etc)
-- Conoscenza di moderne pratiche di DevOps e relativi strumenti
-
-
-**Cosa offre l'azienda:**
-
-
-- Full remote
-- Forbice RAL 40-50k
-- Stock dopo 6 mesi
-- Buoni pasto 8€/giorno
-- Un sacco di formazione interna (2h/settimana IN ORARIO DI LAVORO dedicata a formazione, code review, condivisione interna)
-- Perf review strutturata 2 volte all'anno
-
-
 
 ------------------------------------------------------------------------------------------------------
 
@@ -352,6 +282,7 @@ RESPONSABILITÀ:
 
 Ricerche concluse (con successo 😎)
 
+- Full Stack Developer, 50k, cliente: Miodottore
 - DevOps Engineer, 40-45k, cliente: Selfcommunity
 - Frontend Developer, 35-40k, cliente: Selfcommunity
 - Senior Data Engineer, 45-50K, cliente: Fitprime
