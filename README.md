@@ -171,7 +171,7 @@ Competenze di Monitoraggio: Conoscenza degli strumenti di monitoraggio e logging
 
 ------------------------------------------------------------------------------------------------------
 
-**Back-end Developer** / **QA Engineer** / **Mobile Developer** 
+**Back-end Developer** / **Mobile Developer** 
 Cliente: Recrowd
 
 [https://recrowd.com](https://recrowd.com)
@@ -218,35 +218,6 @@ RESPONSABILITÀ PREVISTE:
 - Assicurarsi che le applicazioni siano ottimizzate per le migliori performance e sicurezza.
 
 
-**QA Engineer, fino a 50k di RAL**
-
-
-DI COSA TI OCCUPERAI:
-
-
-- La figura QA sarà responsabile di garantire la qualità dei prodotti attraverso test approfonditi e processi di controllo. 
-- Collaborerà strettamente con il team di sviluppo per identificare, documentare e risolvere i problemi, contribuendo così a fornire soluzioni software impeccabili agli investitori. 
-- La partecipazione attiva alla definizione di strategie di testing e l'automatizzazione dei test saranno parte integrante del ruolo, garantendo una continua ottimizzazione dei processi di sviluppo.
-
-
-SEI LA PERSONA GIUSTA SE HAI:
-
-
-- Almeno 3 anni di esperienza comprovata come Quality Assurance Engineer.
-- Conoscenza approfondita dei processi e delle metodologie di testing.
-- Capacità di creare piani di test dettagliati e casi di test.
-- Esperienza nell'automatizzare i test tramite playwright, Cypress, Selenium.
-- Familiarità con gli ambienti di sviluppo agile.
-
-
-RESPONSABILITÀ PREVISTE:
-
-
-- Eseguire test funzionali e non funzionali su software e applicazioni.
-- Creare, implementare e mantenere script di test automatizzati.
-- Collaborare con il team di sviluppo per identificare i bug.
-- Partecipare attivamente alle riunioni di pianificazione e revisione del prodotto.
-
 
 **Mobile Developer, fino a 45k di RAL**
 
@@ -282,6 +253,7 @@ RESPONSABILITÀ:
 
 Ricerche concluse (con successo 😎)
 
+- QA Engineer, 50k, cliente: Recrowd
 - Full Stack Developer, 50k, cliente: Miodottore
 - DevOps Engineer, 40-45k, cliente: Selfcommunity
 - Frontend Developer, 35-40k, cliente: Selfcommunity
