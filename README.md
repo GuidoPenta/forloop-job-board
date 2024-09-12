@@ -68,6 +68,8 @@ L’azienda cerca una nuova persona da aggiungere al team tecnico, che abbia mat
 - Possibilità di partecipare come Lecturer ad eventi accademici presso prestigiose Università italiane ed estere
 
 
+.................................................................................................................................
+
 
 **Senior Software Engineer**
 Cliente: Orama
