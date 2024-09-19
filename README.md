@@ -19,7 +19,7 @@ Se sei interessato/a a candidarti (o anche se sei in ricerca attiva e vuoi condi
 **Python Developer**
 Cliente: Quaternion Technologies
 
-[https://www.quaternion.net/](https://www.redokun.net/)
+[https://www.quaternion.net/](https://www.quaternion.net/)
 
 [https://www.linkedin.com/company/quaterniontechnology/](https://www.linkedin.com/company/quaterniontechnology/)
 
