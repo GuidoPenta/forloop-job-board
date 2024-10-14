@@ -16,107 +16,6 @@ Se sei interessato/a a candidarti (o anche se sei in ricerca attiva e vuoi condi
 
 
 
-**Python Developer**
-Cliente: Quaternion Technologies
-
-[https://www.quaternion.net/](https://www.quaternion.net/)
-
-[https://www.linkedin.com/company/quaterniontechnology/](https://www.linkedin.com/company/quaterniontechnology/)
-
-**JOB:**
-
-Quaternion ( https://quaternion.net/ ) è un'azienda che si occupa di sviluppare modelli predittivi in ambito Finance & Energy. Nello specifico, ha sviluppato prodotti interni che sviluppano algoritmi in supporto di operatori dei mercati finanziari e trader/broker energetici.
-
-Chi ricerca l’azienda:
-
-L’azienda cerca una nuova persona da aggiungere al team tecnico, che abbia maturato idealmente 4-5 anni di esperienza in contesti di startup/prodotto ad alto valore tecnologico in ambito finanza o energia (o che abbia forte passione personale in questi settori), con un significativo background accademico.
-
-
-
-**Responsabilità principali previste dal ruolo:**
-
-
-- Contribuire in maniera proattiva allo sviluppo dei due prodotti tecnologici, ognuno verticale in ambito Finance ed Energy basati su Python
-- Collaborare con il team già in forze per sviluppare e mantenere modelli di AI nei sistemi di produzione esistenti, ed in quelli futuri
-- Partecipare attivamente a revisioni del codice, nuove features e co-design di nuove soluzioni
-- Rimanere aggiornato sulle tecnologie emergenti e le tendenze del settore per migliorare continuamente le tue competenze.
-
-
-
-**Requisiti e competenze tecniche:**  
-
-
-- Laurea in Informatica, Ingegneria o STEM, o esperienza pratica equivalente.
-- Esperienza con Python
-- Solida comprensione dei principi e delle migliori pratiche nello sviluppo software.
-- Esperienza con framework e librerie Python (es. Django, Flask, NumPy, Pandas, scikit-learn).
-- Familiarità con AWS e RDS
-- Nice to have: Rust, competenze minime di linguaggi di programmazione web (Js/TS/React)
-- Forti capacità di problem-solving e capacità di lavorare in modo indipendente e in team.
-- Ottime capacità comunicative e approccio proattivo ai compiti e alle sfide.
-
-
-
-**Cosa offre l'azienda:**
-
-
-- Forbice RAL 45-50k
-- Full remote ed ambiente di lavoro task-driven (async)
-- CCNL Metalmeccanico, tempo indeterminato
-- Piattaforma Udemy per formazione continua e libera
-- Premi produzione significativi, legati sia all'andamento personale sia a quello aziendale
-- Possibilità di partecipare come Lecturer ad eventi accademici presso prestigiose Università italiane ed estere
-
-
-.................................................................................................................................
-
-
-**Senior Software Engineer**
-Cliente: Orama
-
-[https://www.askorama.ai/](https://www.askorama.ai/)
-
-[https://www.linkedin.com/company/askorama/](https://www.linkedin.com/company/askorama/)
-
-**JOB:**
-
-Orama è alla ricerca di un/una Senior Software Engineer:
-
-
-Full remote, RAL 70-75k + stock + unlimited PTO (è ok qualsiasi timezone EU oppure USA, se fuori dagli USA si viene assunti tramite un EoR, ovvero Deel) o anche p iva 100k
-
-
-**Required knowledge and skills:**
-
-
-- Expertise with JavaScript and TypeScript is mandatory
-- Good knowledge of Node.js, Deno, or any other major JavaScript runtime.
-- Good knowledge of how reactive frameworks like React, Vue, and Stencil work.
-- Working proficiency in English
-
-
-**Nice to have:**
-
-  
-- Experience with WebAssembly is a strong plus
-- Experience with Cloudflare Workers and/or AWS/GCP is a strong plus
-- Knowledge of how RAG systems work is a strong plus
-- Knowledge of LLMs, ML techniques, and AI in general is a strong plus
-
-
-**Key responsibilities:**
-
-  
-- Building the front-end for highly dynamic user experiences, such as search boxes, answer engine applications, and more
-- Work on the Orama Cloud dashboard to implement new features
-- Implement Orama on different tools (such as Docusaurus, Vitepress, Nextra, etc.)
-
-
-
------------------------------------------------------------------------------------------------------------------------------------
-
-
-
 **Tech Lead**
 Cliente: Redokun
 
@@ -227,7 +126,7 @@ Competenze di Monitoraggio: Conoscenza degli strumenti di monitoraggio e logging
 
 ------------------------------------------------------------------------------------------------------
 
-**Back-end Developer** / **Mobile Developer** 
+**Back-end Developer** / **Tech Lead Mobile Developer** 
 Cliente: Recrowd
 
 [https://recrowd.com](https://recrowd.com)
@@ -240,7 +139,7 @@ E' previsto inoltre un premio di produzione di 2-3k annui, buoni pasto da 7€/g
 
 **JOBS**
 
-**Back-end developer, junior to middle, fino a 37k di RAL**
+**Back-end developer, junior to middle, fino a 40k di RAL**
 
 
 DI COSA TI OCCUPERAI
@@ -275,15 +174,16 @@ RESPONSABILITÀ PREVISTE:
 
 
 
-**Mobile Developer, fino a 45k di RAL**
+**Tech Lead Mobile Developer, fino a 60k di RAL**
 
 
 DI COSA TI OCCUPERAI:
 
 
-- La figura del React Native Developer sarà responsabile dello sviluppo e della manutenzione delle applicazioni mobile utilizzando React Native. 
-- Collaborerà strettamente con i team di progettazione, prodotto e backend per creare nuove funzionalità e migliorare quelle esistenti. 
-- Sarà suo compito scrivere codice riutilizzabile, testabile e pulito, risolvere problemi tecnici e contribuire a fornire soluzioni software di alta qualità agli investitori.
+- La figura del Tech Lead sarà responsabile della supervisione dello sviluppo e della manutenzione delle applicazioni mobile utilizzando React Native
+- Collaborerà strettamente con i team di progettazione e con il CTO, prodotto e backend per creare nuove funzionalità e migliorare quelle esistenti 
+- Avrà inoltre la direzione tecnica dei progetti, fungendo da ponte fra management ed engineering
+- Condurre regolari code review e regolari 1:1 con il team per garantire comunicazione, feedback e crescita 
 
 
 SEI LA PERSONA GIUSTA SE HAI:
@@ -309,6 +209,8 @@ RESPONSABILITÀ:
 
 Ricerche concluse (con successo 😎)
 
+- Software Engineer, 75k, cliente: Orama
+- Python Developer, 50k, cliente: Quaternion
 - QA Engineer, 50k, cliente: Recrowd
 - Full Stack Developer, 50k, cliente: Miodottore
 - DevOps Engineer, 40-45k, cliente: Selfcommunity
