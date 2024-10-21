@@ -16,55 +16,64 @@ Se sei interessato/a a candidarti (o anche se sei in ricerca attiva e vuoi condi
 
 
 
-**Tech Lead**
-Cliente: Redokun
 
-[https://www.redokun.com/](https://www.redokun.com/)
+**Back-end Developer**
+Cliente: Jointly
 
-[https://www.linkedin.com/company/redokun/](https://www.linkedin.com/company/redokun/)
+[https://www.jointly.pro/](https://www.jointly.pro/)
+
+[https://www.linkedin.com/company/jointly-il-welfare-condiviso/](https://www.linkedin.com/company/jointly-il-welfare-condiviso/)
 
 **JOB:**
 
-Redokun è una piattaforma SaaS b2b che permette a team distribuiti di collaborare assieme e lavorare nell'ambito delle traduzioni.
+Jointly è una Società Benefit e B Corp che opera nel mondo dei servizi di Welfare, Wellbeing e people caring. 
+Con oltre 900 clienti, ci impegniamo quotidianamente per migliorare la qualità della vita delle persone e il benessere delle organizzazioni. Attraverso i nostri servizi aiutiamo le famiglie a trovare le migliori soluzioni di cura e assistenza per sé e per i propri cari, in modo da soddisfarne le esigenze nel modo più veloce, affidabile ed economico.
 
-Per loro sono alla ricerca un/una Tech Lead che lavorerà all'interno di un team distribuito nel mondo. **INGLESE MANDATORY!**
+Cerco un/a Senior Backend Developer da inserire nel team Tech che collabori strettamente con il CTO e altri team per garantire la sicurezza, l'efficienza e la qualità del codice.
 
 
 **Responsabilità principali previste dal ruolo:**
 
 
-- coordinare un team di 3 dev (2 back-end e 1 front-end)
-- direzione tecnica dei progetti, fungendo da ponte fra management ed engineering
-- Condurre regolari code review
-- Condurre regolari 1:1 con il team per garantire comunicazione, feedback e crescita 
+- Sviluppo e Manutenzione del Codice:  
+- Programmare in PHP (framework Laravel) e NodeJS per implementare nuove funzionalità e/o sistemare bug.  
+- Risolvere eventuali problemi di sicurezza del codice in collaborazione con il CTO.  
+- Analizzare la struttura del codice e decidere quali design pattern utilizzare per affrontare i problemi nel modo migliore.  
+- Gestione ed ottimizzazione dei Database:  
+- Analizzare la struttura dei DB ed agire per ottimizzarne le prestazioni e come ristrutturarli (e.g., decisioni su data sharding).  
+- Presiedere l’architettura dati overall insieme al CTO per garantire la scalabilità in ottica di Business Intelligence ed applicazioni AI.  
+- Ricerca e Implementazione delle Soluzioni:  
+- Collaborare con il team di Prodotto e Infrastructure per definire le migliori soluzioni e scrivere i processi di sviluppo e di deploy del codice.  
+- Analizzare e sceglie la migliore struttura per immagazzinare i dati.  
+- Supporto Tecnico e Personalizzazione:  
+- Mantenere rapporti con i clienti per eventuale supporto tecnico o attività di personalizzazione, negoziando le migliori soluzioni per Jointly e per il cliente.  
+- Evangelizzazione e Formazione:  
+- Promuovere le best practice di sviluppo e supportare la crescita del team attraverso la formazione e l’adozione di tecniche e strumenti innovativi.
 
 
 **Requisiti e competenze tecniche:**  
 
 
-- Forte conoscenza tecnica ambito front-end (HTML, CSS, Js, React, Redux, RTK query) e back-end (PHP, Symfony o Laminas/Zend) database (MySql o PostgreSQL)
-- Familiarità con strumenti di CI/CD, Docker e cloud (AWS o Azure)
-- Precedenti esperienze in ruoli di leadership tecnica e people management
-- Eccellenti capacità di comunicazione, gestione dei feedback, team working
-- Abitudine al lavoro da remoto e lavoro async, organizzazione del tempo e dei task
-- Ottima conoscenza dell'inglese parlato e scritto
-
-
-**Nice to have:**
-
-
-- Provenienza da aziende di prodotto/scaleup 
-- Esperienza su SaaS
+- Esperienza avanzata nella programmazione in PHP (framework Laravel).  
+- Forte competenza in database relazionali (e.g., MySQL)  
+- Conoscenza di Node.js (JavaScript) per lo sviluppo del backend.  
+- Capacità di analizzare e scegliere le migliori strutture per la conservazione dei dati.  
+- Competenza nella risoluzione dei problemi di sicurezza del codice.  
+- Conoscenza OLAP (preferenziale)  
+- Eccellenti capacità di comunicazione e di negoziazione.  
+- Orientamento al dettaglio e capacità di lavorare in autonomia.  
+- Flessibilità e adattabilità in un ambiente di lavoro dinamico.
 
 
 **Cosa offre l'azienda:**
 
-
-- Full remote
-- Forbice RAL 50-60k
-- 800€/anno per formazione-conf-eventi
-- Lavoro async quasi al 100%, essendo il team distribuitìo in varie parti del mondo
-
+- RAL 45-50k
+- Contratto a tempo indeterminato  
+- Full remote  
+- Welfare aziendale fra i 1350 ed i 1650/anno
+- Buddy per onboarding
+- Sessioni gratuite di counseling
+- Servizi dedicati a genitorialità (babysitting, ripetizioni, counseling genitoriale, etc)
 
 
 
