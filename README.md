@@ -17,6 +17,50 @@ Se sei interessato/a a candidarti (o anche se sei in ricerca attiva e vuoi condi
 
 
 
+**People & Culture Specialist**
+Cliente: azienda IT che svolge attività di progettazione e produzione e sviluppo software per il settore industriale.
+
+
+Siamo alla ricerca di un/una People and Culture Specialist che si occupi di tutti gli aspetti legati alla gestione del personale
+
+
+Le principali attività saranno:
+● Recruiting (creazione annunci; ricerca attiva; gestione fornitori esterni)
+● Employer Branding (partecipazione ad eventi di settore e fiere del lavoro; iniziative di branding in collaborazione con il team Marketing)
+● Onboarding (gestione del processo di onboarding dei nuovi ingressi)
+● Formazione (organizzazione di corsi di formazione finanziata e non, su temi di soft skills e lingue)
+● Feedback e percorsi di crescita (gestione dei feedback interni, in collaborazione con i team leader)
+● Gestione di piani di Welfare
+● Organizzazione di team building ed eventi socializzazione interna
+● Supporto all’Amministrazione del personale
+
+
+Per poter svolgere al meglio questo ruolo sarà necessario:
+● Studi in materie umanistiche e/o Master in ambito HR
+● Aver maturato un’esperienza di almeno 4 anni di aziende di medio grandi dimensioni
+con ruolo di HR Generalista
+● Avere conoscenza dei principali strumenti per la ricerca del personale
+● Capacità di interagire con interlocutori a tutti i livelli
+● Capacità di mediazione
+● Approccio proattivo e autonomo
+● Attitudine al miglioramento continuo
+
+
+Cosa offre l'azienda:
+- Forbice RAL 30-40k
+- Tempo indeterminato, CCNL Metalmeccanico
+- Orario e ibrido flessibile
+- Ufficio accessibile 24/24
+- Banca ore
+- Budget per formazione
+- Ampio piano di welfare
+- Mensa gratuita
+
+
+
+
+.................................................................................................................................
+
 **Back-end Developer**
 Cliente: Jointly
 
