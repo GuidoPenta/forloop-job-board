@@ -146,40 +146,8 @@ Ibrido 3+2 sulle tre sedi, Indeterminato CCNL Metalmeccanico, assicurazione sani
 
 ------------------------------------------------------------------------------------------------------
 
-**Devsecops**
-Cliente: Algo Interview
 
-[https://algointerview.it](https://algointerview.it)
-
-[https://www.linkedin.com/products/algojob-algo-interview/](https://www.linkedin.com/products/algojob-algo-interview/)
-
-**JOB:**
-
-Per https://www.algointerview.it/ , startup che lavora in ambito HR  e valutazione delle competenze, cerco un/una Devsecops:
-Full remote, forbice 55-75k +variabile, budget formazione 500€/anno, stock, CCNL 1 lvl commercio
-
-Responsabilità principali previste:
-- Implementazione pipeline CI/CD con GitHub Actions
-- Gestione DB MySQL in AWS
-- Integrazione AWS (EC2, RDS, S3, IAM, CloudFormation)
-- Mantenere aggiornata la documentazione condivisa con i clienti in conformità con gli standard GDPR e di compliance e di conservazione dei dati
-- Sviluppare delle buone pratiche di knowledge sharing interne all'azienda in materia devops e sicurezza
-
-Qualifiche essenziali:
-- Esperienza comprovata in ambienti DevOps/DevSecOps, con un forte background in programmazione Node.js in Typescript e gestione di database MySQL.
-- Profonda conoscenza di AWS, inclusa l’esperienza con i suoi servizi principali (EC2, Aurora, S3, IAM, ecc.).
-- Solida esperienza nell’uso di GitHub Actions o altri strumenti simili per CI/CD.
-- Conoscenza approfondita delle best practices di sicurezza in AWS, con capacità di implementare e mantenere soluzioni di sicurezza avanzate.
-- Sicurezza: conoscenza di procedure DAST, SAST, SCA, Test reporting, IAST, Docker Images vulnerability management, threat protection, cluster policies
-
-Nice to have:
-Certificazioni AWS: Certificazioni AWS, preferibilmente AWS Certified DevOps Engineer – Professional o AWS Certified Solutions Architect – Associate.
-Containerizzazione: Esperienza con la containerizzazione Docker
-Competenze di Monitoraggio: Conoscenza degli strumenti di monitoraggio e logging AWS, inclusi Amazon CloudWatch e AWS X-Ray.
-
-------------------------------------------------------------------------------------------------------
-
-**Back-end Developer** / **Tech Lead Mobile Developer** 
+**Tech Lead Mobile Developer** 
 Cliente: Recrowd
 
 [https://recrowd.com](https://recrowd.com)
@@ -187,43 +155,8 @@ Cliente: Recrowd
 [https://www.linkedin.com/company/recrowditalia/](https://www.linkedin.com/company/recrowditalia)
 
 
-Per tutte le posizioni è previsto un ibrido MOLTO rilassato 1-2 volte a settimana su Milano o, in alternativa, 1-2 giorni ogni due settimane per chi è fuori Milano. 
-E' previsto inoltre un premio di produzione di 2-3k annui, buoni pasto da 7€/giorno, hardware a scelta.
-
-**JOBS**
-
-**Back-end developer, junior to middle, fino a 40k di RAL**
-
-
-DI COSA TI OCCUPERAI
-
-
-- La figura del Backend Developer sarà responsabile dello sviluppo, manutenzione e ottimizzazione delle nostre applicazioni server-side utilizzando TypeScript ed Express.js. 
-- Collaborerai strettamente con i team di frontend, progettazione e prodotto per garantire l'integrazione e il funzionamento fluido delle API e dei servizi backend. 
-- Sarà tuo compito scrivere codice riutilizzabile, testabile e pulito , risolvere problemi tecnici e contribuire a fornire soluzioni software di alta qualità ai nostri utenti. 
-- La tua partecipazione attiva nelle revisioni del codice e nell'implementazione delle best practice di sviluppo backend sarà fondamentale per il successo del nostro team.
-
-
-SEI LA PERSONA GIUSTA SE HAI:
-
-
-- Almeno 3-4 anni di esperienza comprovata nello sviluppo backend utilizzando TypeScript ed Express.js.
-- Solida conoscenza di JavaScript e TypeScript.
-- Esperienza con la progettazione e l'implementazione di API RESTful.
-- Esperienza con strumenti di testing (Jest, Supertest, Postman)
-- Familiarità con database relazionali e non relazionali (es. PostgreSQL, MongoDB).
-- Conoscenza di ORM come Prisma o Sequelize.
-- Capacità di lavorare con strumenti di controllo versione, come Git.
-- Capacità di lavorare sia in modo indipendente che all'interno di un team.
-
-RESPONSABILITÀ PREVISTE:
-
-
-- Sviluppare, mantenere e ottimizzare le applicazioni server-side utilizzando TypeScript ed Express.js.
-- Progettare e implementare API RESTful per le applicazioni frontend.
-- Collaborare con i team di frontend, progettazione e prodotto per garantire un'integrazione fluida.
-- Effettuare test di unità e integrazione per garantire l'alta qualità del software.
-- Assicurarsi che le applicazioni siano ottimizzate per le migliori performance e sicurezza.
+E' previsto un ibrido MOLTO rilassato 1-2 volte a settimana su Milano o, in alternativa, 1-2 giorni ogni due settimane per chi è fuori Milano. 
+Benefit: premio di produzione di 2-3k annui, buoni pasto da 7€/giorno, hardware a scelta.
 
 
 
@@ -263,6 +196,7 @@ RESPONSABILITÀ:
 Ricerche concluse (con successo 😎)
 
 - Software Engineer, 75k, cliente: Orama
+- Devsecops, 55-75k, cliente: Skillvue
 - Python Developer, 50k, cliente: Quaternion
 - QA Engineer, 50k, cliente: Recrowd
 - Full Stack Developer, 50k, cliente: Miodottore
