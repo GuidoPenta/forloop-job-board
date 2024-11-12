@@ -124,25 +124,26 @@ Cerco un/a Senior Backend Developer da inserire nel team Tech che collabori stre
 ------------------------------------------------------------------------------------------------------
 
 **Java Developer**
-Cliente: Archeometra
+Cliente: Sinnefo
 
-[https://www.archeometra.it/](https://www.archeometra.it/)
+[https://www.sinnefo.eu/](https://www.sinnefo.eu/)
 
-[https://www.linkedin.com/company/archeometra/](https://www.linkedin.com/company/archeometra/)
 
 **JOB:**
 
-Archeometra è una società di consulenza di medie dimensioni (circa 30 persone) con sedi a Castelfranco Veneto, Roma e Napoli che opera sia con privati che con pubbliche amministrazioni su progetti Enterprise.
+Sinnefo è una società del gruppo Datalab che sviluppa prodotti SaaS Cloud in ambito retail e gestione magazzini ed inventario, con sede principale a Bolzano e Padova.
 
-La figura ricercata è di un Java developer (junior 2+anni di exp fino al senior) con le seguenti competenze:
+La figura ricercata è di un/una sviluppatore/trice Java middle seniority con le seguenti competenze:
 
 - Java
-- AWS
+- Springboot
 - Oracle DB
 - Postgres
 - Nice to have familiarità con microservizi, CI/CD e container
 
-Ibrido 3+2 sulle tre sedi, Indeterminato CCNL Metalmeccanico, assicurazione sanitaria, budget per formazione e certificazioni AWS, forbice RAL 35-40k+
+Le attività principali prevedono un ruolo nello sviluppo di plugin in java con piccole parti di frontend in javascript. Il software sul quale si andrà a lavorare è un'applicazione Springboot con api custom per sviluppare interfacce in javascript/typescript.
+
+Full remote con richiesta di 1 trasferta/mese di 2-3 giorni in sede per lavorare sui macchinari del progetto, RAL fino a 35k, buoni pasto da 8€, CCNL Commercio, premi produzione a fine anno
 
 ------------------------------------------------------------------------------------------------------
 
