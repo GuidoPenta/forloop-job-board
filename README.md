@@ -131,15 +131,24 @@ Cliente: Sinnefo
 
 **JOB:**
 
-Sinnefo è una società del gruppo Datalab che sviluppa prodotti SaaS Cloud in ambito retail e gestione magazzini ed inventario, con sede principale a Bolzano e Padova.
+Per Sinnefo, società del Gruppo Datalab che si occupa di sviluppare software e soluzioni innovative per rispondere alle reali esigenze delle aziende in ambito retail, 
+siamo alla ricerca di uno Sviluppatore /Sviluppatrice Java con 2-3 anni di esperienza per un ruolo focalizzato sullo sviluppo di plugin in Java e piccole parti di frontend in JavaScript.
 
-La figura ricercata è di un/una sviluppatore/trice Java middle seniority con le seguenti competenze:
 
-- Java
-- Springboot
-- Oracle DB
-- Postgres
-- Nice to have familiarità con microservizi, CI/CD e container
+
+**Responsabilità principali:**
+- Sviluppare e mantenere un'applicazione basata su Spring Boot, con API personalizzate.
+- Lavorare sull'integrazione di interfacce utente in JavaScript/TypeScript.
+- Gestire il mantenimento del prodotto esistente, unito alla sviluppo di nuove funzionalità e integrazioni.
+- Collaborare con il team per implementare soluzioni innovative e scalabili.
+
+
+**Requisiti:**
+- Esperienza di 2-3 anni in sviluppo Java.
+- Conoscenza di Spring Boot e API REST.
+- Esperienza con JavaScript/TypeScript per lo sviluppo di interfacce frontend.
+- Capacità di lavorare in modo autonomo e collaborativo all’interno di un team.
+
 
 Le attività principali prevedono un ruolo nello sviluppo di plugin in java con piccole parti di frontend in javascript. Il software sul quale si andrà a lavorare è un'applicazione Springboot con api custom per sviluppare interfacce in javascript/typescript.
 
