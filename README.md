@@ -157,6 +157,42 @@ Full remote con richiesta di 1 trasferta/mese di 2-3 giorni in sede per lavorare
 ------------------------------------------------------------------------------------------------------
 
 
+
+**Java Developer**
+Cliente: Data Driven 
+
+[https://www.data-driven.ai/](https://www.data-driven.ai/)
+
+
+**JOB:**
+
+Per Sinnefo, società romana emergente in ambito sviluppo software, siamo alla ricerca di uno Sviluppatore /Sviluppatrice Java con 2-3 anni di esperienza.
+
+
+**Competenze tecniche richieste:**
+
+- Almeno 2-3 anni di esperienza in Java (preferibile con Spring, soprattutto Spring Boot)
+- Esperienza in architetture a microservizi (Spring Cloud)
+- Conoscenza base di Docker
+- Esperienza con Spring Data/JPA o strumenti simili
+- Buona conoscenza dei database relazionali (MySQL, Oracle, PostgreSQL) e capacità di modellazione dati
+- Conoscenza dei design pattern e capacità di applicarli
+- Buona padronanza di Git e ottime capacità di analisi tecnica
+
+**Competenze aggiuntive apprezzate:**
+
+- Conoscenza di database NoSQL (MongoDB o simili)
+- Esperienza con Kafka o strumenti simili
+- Conoscenza base degli ambienti Unix
+- Competenze ed esperienze nello sviluppo front-end con Angular
+
+
+
+Full remote (se sei su Roma, meglio), RAL fino a 35k, buoni pasto da 6€ per i giorni in sede, CCNL Commercio, premi produzione a fine anno previsti dal 2025.
+
+------------------------------------------------------------------------------------------------------
+
+
 **Tech Lead Mobile Developer** 
 Cliente: Recrowd
 
