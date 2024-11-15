@@ -166,7 +166,7 @@ Cliente: Data Driven
 
 **JOB:**
 
-Per Sinnefo, società romana emergente in ambito sviluppo software, siamo alla ricerca di uno Sviluppatore /Sviluppatrice Java con 2-3 anni di esperienza.
+Per Data Driven, società romana emergente in ambito sviluppo software, siamo alla ricerca di uno Sviluppatore /Sviluppatrice Java con 2-3 anni di esperienza.
 
 
 **Competenze tecniche richieste:**
