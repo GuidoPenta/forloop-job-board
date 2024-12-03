@@ -79,6 +79,50 @@ Cerco un/a Senior Backend Developer da inserire nel team Tech che collabori stre
 
 ------------------------------------------------------------------------------------------------------
 
+
+
+**Back-end Developer**
+Cliente: Azienda ambito blockchain competitor di Etherscan (dai, ci puoi arrivare) ;)
+
+Are you ready to contribute to the evolution of blockchain data infrastructure? We are seeking a talented Backend Engineer (strongly focused on data) to join the team and play a pivotal role in advancing the mission to redefine how users interact with blockchain data through explorers and APIs. As a company focused on providing cutting-edge solutions in the Web3 space, the company is committed to addressing the unique challenges of building robust and efficient blockchain data services.
+
+**WHAT YOU WILL DO**
+
+- Helping design, implement, and operate data-intensive microservices from the ground up.
+- Building and maintaining data processing pipelines that extract and process data from multiple EVM compatible blockchains.
+- Developing and maintaining secure and scalable backend services and APIs.
+- Designing a real-time streaming system capable of listening to and reacting to real-time blockchain data and events.
+- Design and implement strategies for rapid retrieval of data with sub-100ms latency from storage systems handling billions of records
+- Implement compression techniques to optimize storage usage in blockchain data storage
+- Contribute to the enhancement of custom NoSQL databases tailored to the specific needs of our blockchain data infrastructure
+
+**WHAT MAKES YOU A GOOD FIT**
+
+- Have at least 4 years of professional software development experience in building and maintaining data-intensive applications.
+- Possess a solid understanding of Backend and Data Engineering principles and best practices.
+- Have experience in running and operating production workloads.
+- Have strong experience with relational and non-relational databases
+- Are passionate about blockchains and decentralized technology.
+- Have strong programming skills, preferably in TypeScript.
+- Skills in Nodejs, MongoDB, Clickhouse, AWS Lamba, SQS/SNS
+- Demonstrate a proactive approach to problem-solving and ownership of tasks.
+- You can speak Italian, since most part of the team is Italian speaker
+
+VERY (VERY) NICE TO HAVE:
+- Previous experiences in Startup
+- Previous experiences in product
+- Experience with massive DBs
+
+**COSA OFFRE L'AZIENDA**
+
+- Lavoro a p iva, 85k di ingaggio annuale
+
+
+
+------------------------------------------------------------------------------------------------------
+
+
+
 **Java Developer**
 Cliente: Sinnefo
 
