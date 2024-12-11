@@ -15,6 +15,44 @@ Se sei interessato/a a candidarti (o anche se sei in ricerca attiva e vuoi condi
 # Posizioni aperte
 
 
+**Solution Architect**
+Cliente: SpacEarth
+
+SpacEarth Technology ( https://www.spacearth.net/ ) is an ex spin-off company of Istituto Nazionale di Geofisica e Vulcanologia one of the biggest research bodies in Italy: a team of engineers, physicists and geologists with a long involvement in research and business management with a view to creating added value from the results of more than 60 years of experience.
+SpacEarth designs and develops applications, software and hardware products for the Aerospace, Maritime and Environment fields, in cooperation with major European and Italian public and private organizations, universities and research centers.
+
+We are searching for a talented and "space-addicted" Solution Architect:
+
+
+
+**Responsibilities:**
+- Cooperate with the development team to design and maintain scalable infrastructure using PAAS systems.
+- Collaborate in defining software architectures according to Cloud Native Application principles.
+- Develop microservices in Python/GO languages and/or others, with a real time processing perspective 
+- Perform system integration between software components developed in house and those developed in outsourcing with IT service providers on PaaS platform 
+- Cooperate with IT service provider for proper integration of developed applications.
+- Cooperate effectively with software service providers, ensuring consistency and quality of work performed.
+- Cooperate with the team in interacting with customers and partners, analyzing their needs and ensuring the delivery of tailored solutions.
+- Draft and maintain clear and detailed documentation regarding infrastructure, configurations, and source code regarding software products.
+
+
+
+**Requirements:**
+- Bachelor's degree in computer science, computer engineering or STEM education pathways.
+- Experience using PAAS systems, particularly AWS.
+- Knowledge on DevOps or Cloud Native architectures based on Opensource products (Docker and Kubernetes, Grafana, Prometheus, Minio).
+- Expertise in development with Python/GO.
+- Knowledge on DevOps or Cloud Native architectures based on OpenShitf.
+- Very good command of the English language, both written and spoken.
+- Ability in managing vendor and customer dialogue.
+- Ability to collaborate in a team, working in a goal-oriented environment.
+
+
+RAL is up to 50k (negotiable) for employees or 35k for contractors (initial period of 6 months of collaboration)
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------
 
 
 **Back-end Developer**
