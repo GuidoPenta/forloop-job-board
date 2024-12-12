@@ -49,7 +49,7 @@ We are searching for a talented and "space-addicted" Solution Architect:
 - Availability to travel abroad at least one time a year for field research
 
 
-RAL is up to 50k (negotiable) for employees or 35k for contractors (initial period of 6 months of collaboration)
+RAL is up to 60k (negotiable) for employees or 35k for contractors (initial period of 6 months of collaboration)
 
 
 
