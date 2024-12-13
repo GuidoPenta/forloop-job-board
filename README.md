@@ -15,6 +15,7 @@ Se sei interessato/a a candidarti (o anche se sei in ricerca attiva e vuoi condi
 # Posizioni aperte
 
 
+
 **Solution Architect**
 Cliente: SpacEarth
 
@@ -54,6 +55,51 @@ RAL is up to 60k (negotiable) for employees or 35k for contractors (initial peri
 
 
 ------------------------------------------------------------------------------------------------------------------------------------
+
+
+**Full Stack Developer**
+Cliente: Wodzi
+[https://www.wodzi.com/](https://www.wodzi.com/)
+[https://www.linkedin.com/company/wodzy/](https://www.linkedin.com/company/wodzy/)
+
+
+**JOB:**
+
+
+Wodzi è una piattaforma SaaS che supporta le aziende nell’organizzazione efficiente del lavoro ibrido. 
+In base alle esigenze aziendali, Wodzi pianifica la presenza in ufficio per massimizzare la collaborazione tra le persone e rendere efficiente la gestione degli spazi (niente più uffici vuoti un giorno e sovraffollati il giorno successivo).
+
+Siamo alla ricerca di un/una Full Stack Developer:
+
+**Cosa farai:**
+
+
+- Sviluppo di applicazioni end-to-end, dal backend all'interfaccia utente.
+- Progettazione e gestione di database con DynamoDB per garantire alte performance e scalabilità.
+- Scrittura di codice chiaro, manutenibile ed efficiente in Javascript e Node.js.
+- Ottimizzazione dell’esperienza utente con jQuery e altre tecnologie front-end.
+- Collaborazione con il team per definire nuove funzionalità e migliorare quelle esistenti.
+
+
+
+**Chi stiamo cercando:**
+
+
+
+- Esperienza di 3+ anni in sviluppo web full-stack.
+- Ottima conoscenza di Javascript e Node.js.
+- Esperienza pratica con DynamoDB e gestione di database NoSQL.
+- Familiarità con jQuery e tecnologie front-end tradizionali.
+- Conoscenze di AWS sono apprezzate
+- Attitudine al problem solving e capacità di lavorare in autonomia.
+
+
+**Cosa offre l'azienda:**
+- Full Remote
+- RAL 30-40k
+- 30-35k per p iva
+- Shares dell'azienda
+
 
 
 **Back-end Developer**
