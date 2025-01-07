@@ -56,52 +56,6 @@ RAL is up to 60k (negotiable) for employees or 35k for contractors (initial peri
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-
-**Full Stack Developer**
-Cliente: Wodzi
-[https://www.wodzi.com/](https://www.wodzi.com/)
-[https://www.linkedin.com/company/wodzy/](https://www.linkedin.com/company/wodzy/)
-
-
-**JOB:**
-
-
-Wodzi è una piattaforma SaaS che supporta le aziende nell’organizzazione efficiente del lavoro ibrido. 
-In base alle esigenze aziendali, Wodzi pianifica la presenza in ufficio per massimizzare la collaborazione tra le persone e rendere efficiente la gestione degli spazi (niente più uffici vuoti un giorno e sovraffollati il giorno successivo).
-
-Siamo alla ricerca di un/una Full Stack Developer:
-
-**Cosa farai:**
-
-
-- Sviluppo di applicazioni end-to-end, dal backend all'interfaccia utente.
-- Progettazione e gestione di database con DynamoDB per garantire alte performance e scalabilità.
-- Scrittura di codice chiaro, manutenibile ed efficiente in Javascript e Node.js.
-- Ottimizzazione dell’esperienza utente con jQuery e altre tecnologie front-end.
-- Collaborazione con il team per definire nuove funzionalità e migliorare quelle esistenti.
-
-
-
-**Chi stiamo cercando:**
-
-
-
-- Esperienza di 3+ anni in sviluppo web full-stack.
-- Ottima conoscenza di Javascript e Node.js.
-- Esperienza pratica con DynamoDB e gestione di database NoSQL.
-- Familiarità con jQuery e tecnologie front-end tradizionali.
-- Conoscenze di AWS sono apprezzate
-- Attitudine al problem solving e capacità di lavorare in autonomia.
-
-
-**Cosa offre l'azienda:**
-- Full Remote
-- RAL 30-40k
-- 30-35k per p iva
-- Shares dell'azienda
-
-
-
 **Back-end Developer**
 Cliente: Jointly
 
@@ -204,78 +158,9 @@ VERY (VERY) NICE TO HAVE:
 
 
 
-------------------------------------------------------------------------------------------------------
-
-
-
-**Java Developer**
-Cliente: Sinnefo
-
-[https://www.sinnefo.eu/](https://www.sinnefo.eu/)
-
-
-**JOB:**
-
-Per Sinnefo, società del Gruppo Datalab che si occupa di sviluppare software e soluzioni innovative per rispondere alle reali esigenze delle aziende in ambito retail, 
-siamo alla ricerca di uno Sviluppatore /Sviluppatrice Java con 2-3 anni di esperienza per un ruolo focalizzato sullo sviluppo di plugin in Java e piccole parti di frontend in JavaScript.
-
-
-
-**Responsabilità principali:**
-- Sviluppare e mantenere un'applicazione basata su Spring Boot, con API personalizzate.
-- Lavorare sull'integrazione di interfacce utente in JavaScript/TypeScript.
-- Gestire il mantenimento del prodotto esistente, unito alla sviluppo di nuove funzionalità e integrazioni.
-- Collaborare con il team per implementare soluzioni innovative e scalabili.
-
-
-**Requisiti:**
-- Esperienza di 2-3 anni in sviluppo Java.
-- Conoscenza di Spring Boot e API REST.
-- Esperienza con JavaScript/TypeScript per lo sviluppo di interfacce frontend.
-- Capacità di lavorare in modo autonomo e collaborativo all’interno di un team.
-
-
-Le attività principali prevedono un ruolo nello sviluppo di plugin in java con piccole parti di frontend in javascript. Il software sul quale si andrà a lavorare è un'applicazione Springboot con api custom per sviluppare interfacce in javascript/typescript.
-
-Full remote con richiesta di 1 trasferta/mese di 2-3 giorni in sede per lavorare sui macchinari del progetto, RAL fino a 35k, buoni pasto da 8€, CCNL Commercio, premi produzione a fine anno
 
 ------------------------------------------------------------------------------------------------------
 
-
-
-**Java Developer**
-Cliente: Data Driven 
-
-[https://www.data-driven.ai/](https://www.data-driven.ai/)
-
-
-**JOB:**
-
-Per Data Driven, società romana emergente in ambito sviluppo software, siamo alla ricerca di uno Sviluppatore /Sviluppatrice Java con 2-3 anni di esperienza.
-
-
-**Competenze tecniche richieste:**
-
-- Almeno 2-3 anni di esperienza in Java (preferibile con Spring, soprattutto Spring Boot)
-- Esperienza in architetture a microservizi (Spring Cloud)
-- Conoscenza base di Docker
-- Esperienza con Spring Data/JPA o strumenti simili
-- Buona conoscenza dei database relazionali (MySQL, Oracle, PostgreSQL) e capacità di modellazione dati
-- Conoscenza dei design pattern e capacità di applicarli
-- Buona padronanza di Git e ottime capacità di analisi tecnica
-
-**Competenze aggiuntive apprezzate:**
-
-- Conoscenza di database NoSQL (MongoDB o simili)
-- Esperienza con Kafka o strumenti simili
-- Conoscenza base degli ambienti Unix
-- Competenze ed esperienze nello sviluppo front-end con Angular
-
-
-
-Full remote (se sei su Roma, meglio), RAL fino a 35k, buoni pasto da 6€ per i giorni in sede, CCNL Commercio, premi produzione a fine anno previsti dal 2025.
-
-------------------------------------------------------------------------------------------------------
 
 
 **Tech Lead Mobile Developer** 
