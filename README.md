@@ -162,7 +162,7 @@ La persona sarà responsabile di facilitare la comunicazione tra il team IT e gl
 
 - Esperienza anche minima in ruoli di project management o coordinamento, preferibilmente in contesti IT o fintech.
 - Conoscenza di base delle metodologie di gestione dei progetti (es. Agile, Scrum, Waterfall).
-- Competenze nell'uso di strumenti di project management (es. Jira, Trello, Asana,Github issues).
+- Competenze nell'uso di strumenti di project management (es. Jira, Trello, Asana,Github issues, Notion, TestRail).
 - Eccellenti capacità organizzative e di gestione del tempo.
 - Attenzione ai dettagli e attitudine a verificare che i deliverable rispettino standard di qualità e scadenze.
 - Capacità di comunicare in modo chiaro e di collaborare con team multifunzionali.
