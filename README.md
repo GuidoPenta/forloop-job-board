@@ -16,45 +16,6 @@ Se sei interessato/a a candidarti (o anche se sei in ricerca attiva e vuoi condi
 
 
 
-**Solution Architect**
-Cliente: SpacEarth
-
-SpacEarth Technology ( https://www.spacearth.net/ ) is an ex spin-off company of Istituto Nazionale di Geofisica e Vulcanologia one of the biggest research bodies in Italy: a team of engineers, physicists and geologists with a long involvement in research and business management with a view to creating added value from the results of more than 60 years of experience.
-SpacEarth designs and develops applications, software and hardware products for the Aerospace, Maritime and Environment fields, in cooperation with major European and Italian public and private organizations, universities and research centers.
-
-We are searching for a talented and "space-addicted" Solution Architect:
-
-
-
-**Responsibilities:**
-- Cooperate with the development team to design and maintain scalable infrastructure using PAAS systems.
-- Collaborate in defining software architectures according to Cloud Native Application principles.
-- Develop microservices in Python/GO languages and/or others, with a real time processing perspective 
-- Perform system integration between software components developed in house and those developed in outsourcing with IT service providers on PaaS platform 
-- Cooperate with IT service provider for proper integration of developed applications.
-- Cooperate effectively with software service providers, ensuring consistency and quality of work performed.
-- Cooperate with the team in interacting with customers and partners, analyzing their needs and ensuring the delivery of tailored solutions.
-- Draft and maintain clear and detailed documentation regarding infrastructure, configurations, and source code regarding software products.
-
-
-
-**Requirements:**
-- Bachelor's degree in computer science, computer engineering or STEM education pathways.
-- Experience using PAAS systems, particularly AWS.
-- Knowledge on DevOps or Cloud Native architectures based on Opensource products (Docker and Kubernetes, Grafana, Prometheus, Minio).
-- Expertise in development with Python/GO.
-- Knowledge on DevOps or Cloud Native architectures based on OpenShitf.
-- Very good command of the English language, both written and spoken.
-- Ability in managing vendor and customer dialogue.
-- Ability to collaborate in a team, working in a goal-oriented environment.
-- Availability to travel abroad at least one time a year for field research
-
-
-RAL is up to 60k (negotiable) for employees or 35k for contractors (initial period of 6 months of collaboration)
-
-
-
-------------------------------------------------------------------------------------------------------------------------------------
 
 **Back-end Developer**
 Cliente: Jointly
@@ -119,42 +80,47 @@ Cerco un/a Senior Backend Developer da inserire nel team Tech che collabori stre
 ------------------------------------------------------------------------------------------------------
 
 
+**Junior Python Developer**
+Cliente: Lexroom.ai
 
-**Back-end Developer**
-Cliente: Azienda ambito blockchain competitor di Etherscan (dai, ci puoi arrivare) ;)
+[https://www.lexroom.ai/](https://www.lexroom.ai/)
 
-Are you ready to contribute to the evolution of blockchain data infrastructure? We are seeking a talented Backend Engineer (strongly focused on data) to join the team and play a pivotal role in advancing the mission to redefine how users interact with blockchain data through explorers and APIs. As a company focused on providing cutting-edge solutions in the Web3 space, the company is committed to addressing the unique challenges of building robust and efficient blockchain data services.
+[https://www.linkedin.com/company/lexroom.ai/](https://www.linkedin.com/company/lexroom.ai/)
 
-**WHAT YOU WILL DO**
 
-- Helping design, implement, and operate data-intensive microservices from the ground up.
-- Building and maintaining data processing pipelines that extract and process data from multiple EVM compatible blockchains.
-- Developing and maintaining secure and scalable backend services and APIs.
-- Designing a real-time streaming system capable of listening to and reacting to real-time blockchain data and events.
-- Design and implement strategies for rapid retrieval of data with sub-100ms latency from storage systems handling billions of records
-- Implement compression techniques to optimize storage usage in blockchain data storage
-- Contribute to the enhancement of custom NoSQL databases tailored to the specific needs of our blockchain data infrastructure
 
-**WHAT MAKES YOU A GOOD FIT**
+**At Lexroom.ai, the mission is to give superpowers to lawyers and let them complete hours of work in seconds.**
 
-- Have at least 4 years of professional software development experience in building and maintaining data-intensive applications.
-- Possess a solid understanding of Backend and Data Engineering principles and best practices.
-- Have experience in running and operating production workloads.
-- Have strong experience with relational and non-relational databases
-- Are passionate about blockchains and decentralized technology.
-- Have strong programming skills, preferably in TypeScript.
-- Skills in Nodejs, MongoDB, Clickhouse, AWS Lamba, SQS/SNS
-- Demonstrate a proactive approach to problem-solving and ownership of tasks.
-- You can speak Italian, since most part of the team is Italian speaker
+Lexroom is part of the legal industry revolution driven by Generative AI. So far, the results are promising: customers grew 5x in the last 5 months, and over half of them save 8+ hours a week on research and drafting with the product. 
 
-VERY (VERY) NICE TO HAVE:
-- Previous experiences in Startup
-- Previous experiences in product
-- Experience with massive DBs
 
-**COSA OFFRE L'AZIENDA**
+They are looking to grow our tech team with a Junior Software Engineer who will work directly with the CTO (Andrea) on some of the most complex challenges in Generative AI implementation.
 
-- Lavoro a p iva, 85k di ingaggio annuale
+**What will you do**
+
+- You will design, develop, and maintain web scrapers using Python, Scrapy, Selenium, and other relevant technologies.
+- Collaborate with the team to identify requirements, provide technical solutions, and develop internal tools
+- You will be one of the first hires: we’re looking for someone with aligned values. You are someone who wants to grow and scale with the company and lead by example for new hires
+
+**Qualifications**
+
+- Bachelor’s degree in Computer Science, Information Technology, or a relevant field
+- 0-2 years of experience as a Software Developer or similar role
+- Proficiency in Python
+- Excellent problem-solving skills and attention to detail
+- Good interpersonal and communication skills
+- Self-starter with the ability to work independently and in team settings
+
+**Nice to Have**
+
+- Experience with ML or NLP
+- Knowledge of cloud platforms (e.g., Google Cloud Platform)
+
+**What they offer**
+
+- RAL €30k-35k based on your experience
+- **Relevant Stock options package💰**
+- Hybrid work (Turin)
 
 
 
@@ -163,7 +129,8 @@ VERY (VERY) NICE TO HAVE:
 
 
 
-**Tech Lead Mobile Developer** 
+
+**Junior Project Manager** 
 Cliente: Recrowd
 
 [https://recrowd.com](https://recrowd.com)
@@ -171,46 +138,41 @@ Cliente: Recrowd
 [https://www.linkedin.com/company/recrowditalia/](https://www.linkedin.com/company/recrowditalia)
 
 
-E' previsto un ibrido MOLTO rilassato 1-2 volte a settimana su Milano o, in alternativa, 1-2 giorni ogni due settimane per chi è fuori Milano. 
+RAL: 30-32K, ibrido 3+2 su Milano
 Benefit: premio di produzione di 2-3k annui, buoni pasto da 7€/giorno, hardware a scelta.
 
 
 
-**Tech Lead Mobile Developer, fino a 60k di RAL**
+Cerchiamo un Junior Project Manager con forte orientamento al coordinamento e alla gestione operativa. 
+La persona sarà responsabile di facilitare la comunicazione tra il team IT e gli altri dipartimenti aziendali, assicurandosi che le attività siano pianificate, eseguite e verificate correttamente nei tempi previsti.
 
 
-DI COSA TI OCCUPERAI:
+**Responsabilità principali:**
 
 
-- La figura del Tech Lead sarà responsabile della supervisione dello sviluppo e della manutenzione delle applicazioni mobile utilizzando React Native
-- Collaborerà strettamente con i team di progettazione e con il CTO, prodotto e backend per creare nuove funzionalità e migliorare quelle esistenti 
-- Avrà inoltre la direzione tecnica dei progetti, fungendo da ponte fra management ed engineering
-- Condurre regolari code review e regolari 1:1 con il team per garantire comunicazione, feedback e crescita 
+- Coordinamento interfunzionale: fungere da ponte tra il team IT e gli altri reparti aziendali (Marketing, Progetti, CS, ecc.) per assicurare un allineamento chiaro sulle priorità e sugli obiettivi progettuali.
+- Pianificazione e assegnazione delle attività: suddividere il lavoro all'interno del team IT, assegnando compiti in base alle competenze e alle scadenze.
+- Monitoraggio e verifica delle attività: garantire che le attività siano eseguite secondo gli standard di qualità definiti e nei tempi stabiliti, fornendo aggiornamenti periodici agli stakeholder.
+- Controllo dello stato di avanzamento: tracciare le milestone dei progetti e garantire che i deliverable siano completati in modo soddisfacente, conducendo verifiche finali sulle attività svolte.
+- Supporto operativo ai progetti: collaborare con i team per risolvere problemi tecnici o organizzativi che potrebbero compromettere il raggiungimento degli obiettivi.
+- Documentazione: assicurare che tutte le attività siano ben documentate, includendo roadmap, report di avanzamento e check-list di verifica.
 
 
-SEI LA PERSONA GIUSTA SE HAI:
+**Requisiti:**
 
-
-- Almeno 4-5 anni di esperienza comprovata nello sviluppo di applicazioni mobile utilizzando React Native.
-- Solida conoscenza di JavaScript e dei framework di sviluppo front-end.
-- Conoscenza approfondita del ciclo di vita delle applicazioni mobile.
-- Esperienza con l'integrazione di API RESTful.
-- Comprensione delle migliori pratiche di sviluppo mobile, inclusi design responsive, UI/UX e accessibilità.
-- Capacità di lavorare sia in modo indipendente che all'interno di un team.
-
-
-RESPONSABILITÀ:
-
-
-- Sviluppare e mantenere applicazioni mobile utilizzando React Native.
-- Risolvere problemi tecnici e debug di applicazioni esistenti.
-- Effettuare test di unità e integrazione per garantire l'alta qualità del software.
-- Assicurarsi che le applicazioni siano ottimizzate per le migliori performance e compatibilità su diverse piattaforme.
+- Esperienza anche minima in ruoli di project management o coordinamento, preferibilmente in contesti IT o fintech.
+- Conoscenza di base delle metodologie di gestione dei progetti (es. Agile, Scrum, Waterfall).
+- Competenze nell'uso di strumenti di project management (es. Jira, Trello, Asana,Github issues).
+- Eccellenti capacità organizzative e di gestione del tempo.
+- Attenzione ai dettagli e attitudine a verificare che i deliverable rispettino standard di qualità e scadenze.
+- Capacità di comunicare in modo chiaro e di collaborare con team multifunzionali.
+- Conoscenza dei flussi di lavoro IT e delle tecnologie digitali rappresenta un plus
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 Ricerche concluse (con successo 😎)
 
+- Solution Architect, 70k, cliente: SpacEarth
 - Software Engineer, 75k, cliente: Orama
 - Devsecops, 55-75k, cliente: Skillvue
 - Python Developer, 50k, cliente: Quaternion
