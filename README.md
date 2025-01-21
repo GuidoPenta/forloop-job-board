@@ -94,7 +94,7 @@ Cliente: Lexroom.ai
 Lexroom is part of the legal industry revolution driven by Generative AI. So far, the results are promising: customers grew 5x in the last 5 months, and over half of them save 8+ hours a week on research and drafting with the product. 
 
 
-They are looking to grow our tech team with a Junior Software Engineer who will work directly with the CTO (Andrea) on some of the most complex challenges in Generative AI implementation.
+They are looking to grow their tech team with a Junior Software Engineer who will work directly with the CTO (Andrea) on some of the most complex challenges in Generative AI implementation.
 
 **What will you do**
 
