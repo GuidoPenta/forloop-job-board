@@ -120,7 +120,7 @@ They are looking to grow their tech team with a Junior Software Engineer who wil
 
 - RAL €30k-35k based on your experience
 - **Relevant Stock options package💰**
-- Hybrid work (Turin)
+- Hybrid work (Milan)
 
 
 
