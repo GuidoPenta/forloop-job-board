@@ -139,7 +139,7 @@ Cliente: Recrowd
 
 
 RAL: 30-32K, ibrido 3+2 su Milano
-Benefit: premio di produzione di 2-3k annui, buoni pasto da 7€/giorno, hardware a scelta.
+Benefit: premio di produzione di 2-3k annui, buoni pasto da 7€/giorno, CCNL Commercio, hardware a scelta.
 
 
 
