@@ -16,6 +16,119 @@ Se sei interessato/a a candidarti (o anche se sei in ricerca attiva e vuoi condi
 
 
 
+Data Engineer | Front-end Developer | Machine Learning Engineer | Data Scientist | Tutte full remote | CCNL Metalmeccanico | Orario super flessibile (si lavora per obiettivi)
+
+Cliente: Intella
+
+[https://www.intella.tech/](https://www.intella.tech/)
+
+[https://www.linkedin.com/company/intellatech/](https://www.linkedin.com/company/intellatech/)
+
+
+Intella è una startup che opera in ambito Aerospace. Nello specifico, ha creato un suo prodotto, Mercury, che fa da "dottore" per i satelliti (predictive maintenance).
+
+Sono in fortissima crescita e di conseguenza sono alla ricerca di varie figure, di seguito le job descriptions:
+
+
+
+**Data Engineer**: Full remote, RAL 40-55k
+
+As Data Engineer, you'll be a key member of the team, responsible for building, maintaining, and optimizing our data pipelines and infrastructure. You'll work with cutting-edge tools and technologies like Python Prefect, DuckDB, Polars, and cloud platforms to ensure the seamless flow of data across systems. Your contributions will be pivotal in ensuring the scalability and efficiency of our data processing capabilities to support a growing volume of data and users.
+
+
+**Key Responsibilities**:
+
+- Design, build, and maintain scalable data pipelines to support our growing data needs. 
+- Optimize and automate data workflows, ensuring data are always available for analysis and business decision-making inside our platform. 
+- Collaborate with cross-functional teams to ensure data quality and integrity.
+- Support the development of internal Python libraries and backend systems.
+- Implement best practices for data security and governance. 
+- Ensure data infrastructure can scale effectively to handle increasing volumes and complexity. 
+- Work with the team to integrate new customer data inside the tool. 
+- Propose and integrate new technologies to enhance data processing capabilities. 
+
+
+**Requirements**:
+
+- Proven experience as a Data Engineer, with expertise in ETL processes, data pipeline architecture, and data management.  
+- Experience with cloud platforms like AWS, GCP, or Azure. 
+- Strong SQL and Python skills for data manipulation and automation. 
+- Experience with distributed systems and handling large datasets in a production environment. 
+- Familiarity with best practices in data security, governance, and data privacy regulations. 
+- Passion for working with data and a commitment to continuous learning and improvement. 
+- Excellent problem-solving skills and the ability to work effectively in a remote team.
+
+
+
+
+
+**Front-end Developer** Full remote, RAL 40-50k
+
+As a front-end developer, you’ll play a vital role in the team and the company products, focusing on building and maintaining responsive, user-friendly interfaces. 
+You’ll work with technologies like Next.js, and TypeScript, creating seamless experiences and fast visualizations for the data and the current users. 
+You’ll collaborate on modern development pipelines, and your familiarity with GitLab CI/CD, Kubernetes, Keycloak, and Nginx will be a plus as we optimize and secure the front-end environment. 
+Some familiarity with Python would be beneficial for occasional backend updates to support our dynamic front-end needs.
+
+
+**Key Responsibilities**:
+
+
+- Develop and maintain responsive user interfaces using React, Next.js, and TypeScript.
+- Ensure optimal performance and responsiveness across all devices and browsers.
+- Work with our UI and UX team to create responsive and simple interfaces for our users. Focus on data visualization.
+- Collaborate with the backend team to integrate and enhance APIs and data flow.
+- Contribute to our deployment and CI/CD processes using Docker, and GitLab.
+- Assist in securing our frontend applications with Keycloak authentication and Nginx routing.
+- Occasionally support backend updates with Python as needed.
+- Propose new ideas, frameworks, and technologies to enhance user experience.
+
+
+**Requirements **:
+
+
+- Proven experience in frontend development, with expertise in React, Next.js, and TypeScript.
+- Familiarity with Docker and experience in deploying and managing frontend applications.
+- Knowledge of CI/CD pipelines, preferably with GitLab, and container orchestration with Kubernetes as developer.
+- Basic knowledge of Keycloak for authentication management and Nginx for web serving.
+- Some experience with Python is beneficial, particularly for minor backend integrations.
+- Excellent problem-solving skills and the ability to work effectively in a remote team.
+- A passion for creating user-centered, responsive, and high-performance interfaces.
+
+
+
+
+**Machine Learning Engineer** Full remote, RAL 40-50k
+
+As a Machine Learning Engineer, you'll be helping in bringing the data science team's machine learning models into production, optimizing them for scale and efficiency. 
+You'll ensure the models' performance and reliability in a production environment, continuously seeking out new solutions and approaches to improve our infrastructure and practices. 
+With an eye on the future, you'll also play a key role in scaling the infrastructure to accommodate more customers and satellites.
+
+
+**Key Responsibilities**:
+
+
+- Deploy, monitor, and maintain machine learning models in production, ensuring their performance and scalability.
+- Collaborate with the data science team to refine and optimize models for production environments.
+- Proactively propose and implement new tools, best practices, and approaches to enhance our machine learning infrastructure.
+- Manage and scale our cloud infrastructure to support an increasing number of customers and satellites.
+- Stay updated on the latest developments in machine learning and AI, contributing to open-source projects and community initiatives.
+
+
+**Requirements**:
+
+
+- Strong experience in Python and familiarity with deep neural networks and classical machine learning methods.
+- Knowledge of Python Libraries for data management, machine learning, and database management systems.
+- Proven track record of deploying and maintaining machine learning models in production environments with examples of projects and tools you develop.
+- Experience with cloud infrastructure and scalable systems (experience with Kubernetes is a plus).
+- A passion for AI and machine learning, with a commitment to continuous learning and improvement.
+- Contributions to open-source projects and community involvement in AI/ML are highly valued.
+- Excellent problem-solving skills, along with the ability to work independently and collaboratively in a remote setting.
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+
+
 **Junior Python Developer**
 Cliente: Lexroom.ai
 
