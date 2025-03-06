@@ -2,7 +2,7 @@
 
 | Company                   | Contract    | RAL       |
 |---------------------------|-------------|-----------|
-| [**Intella**](company.md) | Full remote | 40k - 50k | 
+| [**Intella**](company.md) | Full remote | 40k - 55k | 
 
 As Data Engineer, you'll be a key member of the team, responsible for building, maintaining, and optimizing our data pipelines and infrastructure. You'll work with cutting-edge tools and technologies like Python Prefect, DuckDB, Polars, and cloud platforms to ensure the seamless flow of data across systems. Your contributions will be pivotal in ensuring the scalability and efficiency of our data processing capabilities to support a growing volume of data and users.
 
