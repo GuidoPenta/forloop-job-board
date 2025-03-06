@@ -27,7 +27,7 @@
 
 **What they offer**
 
-- RAL €30k-35k based on your experience
+- RAL €35k-40k based on your experience
 - CCNL Metalmeccanico
 - **Relevant Stock options package💰**
 - Hybrid work (Milan)
