@@ -2,7 +2,7 @@
 
 | Company                      | Contract       | RAL       |
 |------------------------------|----------------|-----------|
-| [**Lexroom.ai**](company.md) | Hybrid (Milan) | 30k - 35k | 
+| [**Lexroom.ai**](company.md) | Hybrid (Milan) | 35k - 40k | 
 
 **What will you do**
 
