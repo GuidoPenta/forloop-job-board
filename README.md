@@ -19,7 +19,7 @@ candidatura) puoi contattarmi qui:
 | [**Front-end Developer**](clients/intella/frontend_developer.md)              | 40k - 50k | Full remote        | [Intella](clients/intella/company.md)    |
 | [**Machine Learning Engineer**](clients/intella/machine_learning_engineer.md) | 40k - 50k | Full remote        | [Intella](clients/intella/company.md)    |
 | [**Data Scientist**](clients/intella/data_scientist.md)                       | 50k - 60k | Full remote        | [Intella](clients/intella/company.md)    |
-| [**Junior Python Developer**](clients/lexroom/junior_python_developer.md)     | 30k - 35k | Hybrid (Milan)     | [Lexroom.ai](clients/lexroom/company.md) |
+| [**Junior Python Developer**](clients/lexroom/junior_python_developer.md)     | 35k - 40k | Hybrid (Milan)     | [Lexroom.ai](clients/lexroom/company.md) |
 | [**Junior Project Manager**](clients/recrowd/junior_project_manager.md)       | 30k - 32k | Hybrid 2+3 (Milan) | [Recrowd](clients/recrowd/company.md)    |
 | [**Full Stack Developer**](clients/recrowd/full_stack_developer.md)           | 42k - 45k | Hybrid 2+3 (Milan) | [Recrowd](clients/recrowd/company.md)    |
 ----------------------------------------------------------------------------------------------------------------------------------------
