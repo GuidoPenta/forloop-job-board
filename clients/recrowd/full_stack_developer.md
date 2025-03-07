@@ -2,10 +2,9 @@
 
 | Company                      | Contract           | RAL       |
 |------------------------------|--------------------|-----------|
-| [**Recrowd**](company.md)    | Hybrid 2+3 (Milan) | up to 45k |
+| [**Recrowd**](company.md)    | Hybrid 2 days/month| up to 45k |
 
-**NOTA BENE!** Recrowd adotta una formula ibrida molto "rilassata", senza giorni fissi/predefiniti in sede. Per chi vive su Milano/zone limitrofe la richiesta è di uno/due giorni AL MASSIMO in sede a settimana.
-Per chi, invece, vive fuori Milano (sono benvenute candidature da tutta Italia) la richiesta è di 3-4 giorni AL MESE in sede (quindi all'incirca 1-2 giorni in presenza ogni due settimane, con ovviamente spese di trasferta a carico dell'azienda).
+Presenza in sede richiesta solo 2 giorni/mese, da concordare con il Tech Lead/CTO.
 
 #### Benefit 
 - Premio di produzione di 2-3k annui
