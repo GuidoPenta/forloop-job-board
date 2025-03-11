@@ -21,7 +21,7 @@ candidatura) puoi contattarmi qui:
 | [**Data Scientist**](clients/intella/data_scientist.md)                       | 50k - 60k | Full remote        | [Intella](clients/intella/company.md)    |
 | [**Junior Python Developer**](clients/lexroom/junior_python_developer.md)     | 35k - 40k | Hybrid (Milan)     | [Lexroom.ai](clients/lexroom/company.md) |
 | [**Full Stack Developer**](clients/recrowd/full_stack_developer.md)           | 42k - 45k | Hybrid 2 days/month| [Recrowd](clients/recrowd/company.md)    |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Ricerche concluse (con successo 😎)
 
