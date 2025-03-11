@@ -1,7 +1,7 @@
 ## Lexroom.ai
 
 - **Website**: [https://www.lexroom.ai/](https://www.lexroom.ai/)
-- **Linkedin**: [https://www.linkedin.com/company/lexroom.ai/](https://www.linkedin.com/company/lexroom.ai/)
+- **Linkedin**: [https://www.linkedin.com/company/lexroom.ai/](https://www.linkedin.com/company/lex-room/)
 
 **At Lexroom.ai, the mission is to give superpowers to lawyers and let them complete hours of work in seconds.**
 
