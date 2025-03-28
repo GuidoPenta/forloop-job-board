@@ -16,7 +16,6 @@ candidatura) puoi contattarmi qui:
 | Role                                                                          | Ral       | Contract           | Company                                  |                                                           
 |-------------------------------------------------------------------------------|-----------|--------------------|------------------------------------------|
 | [**Data Engineer**](clients/intella/data_engineer.md)                         | 40k - 55k | Full remote        | [Intella](clients/intella/company.md)    |
-| [**Front-end Developer**](clients/intella/frontend_developer.md)              | 40k - 50k | Full remote        | [Intella](clients/intella/company.md)    |
 | [**Machine Learning Engineer**](clients/intella/machine_learning_engineer.md) | 40k - 50k | Full remote        | [Intella](clients/intella/company.md)    |
 | [**Data Scientist**](clients/intella/data_scientist.md)                       | 50k - 60k | Full remote        | [Intella](clients/intella/company.md)    |
 | [**Back-end Developer**](clients/humans.tech/backend-developer.md)            | 25k - 44k | Full remote        | [humans.tech](clients/humans.tech/company.md)    |
@@ -30,6 +29,7 @@ candidatura) puoi contattarmi qui:
 
 Ricerche concluse (con successo 😎)
 
+- Front-end Developer,50k, cliente: Intella
 - Solution Architect, 70k, cliente: SpacEarth
 - Senior Back-end developer, 50k, cliente: Jointly
 - Software Engineer, 75k, cliente: Orama
