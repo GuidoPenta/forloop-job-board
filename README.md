@@ -9,7 +9,7 @@ candidatura) puoi contattarmi qui:
 
 - [Telegram](https://t.me/guidopenta)
 - [LinkedIn](https://www.linkedin.com/in/guido-penta/)
-- [Mail](mailto:guido@forloop.tech)
+- [Mail](mailto:guido@welyk.tech)
 
 ### Posizioni aperte
 
