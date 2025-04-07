@@ -22,7 +22,6 @@ candidatura) puoi contattarmi qui:
 | [**Full Stack Developer**](clients/recrowd/full_stack_developer.md)           | 42k - 45k | Hybrid 2 days/month| [Recrowd](clients/recrowd/company.md)    |
 | [**Data Engineer III**](clients/agilelab/data_engineer_III.md)                | 47k - 60k | Full remote        | [AgileLab](clients/agilelab/company.md)  |
 | [**Data Engineer IV**](clients/agilelab/data_engineer_IV.md)                  | 47k - 60k | Full remote        | [AgileLab](clients/agilelab/company.md)  |
-| [**SRE III**](clients/agilelab/SRE_III.md)                                    | 47k - 60k | Full remote        | [AgileLab](clients/agilelab/company.md)  |
 | [**Junior Application Maintenance**](clients/agilelab/junior_application_maintenance.md)  | 30k - 40k | Full remote | [AgileLab](clients/agilelab/company.md)  |
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
