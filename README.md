@@ -1,4 +1,4 @@
-# forloop.tech job board
+# welyk.tech job board
 
 Ciao e benvenuto/a!
 
