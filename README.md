@@ -4,9 +4,7 @@ Ciao e benvenuto/a!
 
 Qui troverai tutte le posizioni che sto attualmente gestendo per conto delle mie aziende clienti.
 
-Se sei interessato/a a candidarti (o anche se sei in ricerca attiva e vuoi condividermi il tuo CV per una futura
-candidatura) puoi contattarmi qui:
-
+Se sei in ricerca attiva e vuoi registrarti sul nostro sito, clicca qui: https://recruiting.welyk.tech/jobs/5813648-candidatura-spontanea
 - [Telegram](https://t.me/guidopenta)
 - [LinkedIn](https://www.linkedin.com/in/guido-penta/)
 - [Mail](mailto:guido@welyk.tech)
