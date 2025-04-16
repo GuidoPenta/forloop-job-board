@@ -4,6 +4,9 @@
 |------------------------------|--------------------|-----------|
 | [**Recrowd**](company.md)    | Hybrid 2 days/month| up to 45k |
 
+
+Per candidarti: https://recruiting.welyk.tech/jobs/5804989-full-stack-developer-recrowd
+
 Presenza in sede richiesta solo 2 giorni/mese, da concordare con il Tech Lead/CTO.
 
 #### Benefit 
