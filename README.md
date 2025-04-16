@@ -5,9 +5,7 @@ Ciao e benvenuto/a!
 Qui troverai tutte le posizioni che sto attualmente gestendo per conto delle mie aziende clienti.
 
 Se sei in ricerca attiva e vuoi registrarti sul nostro sito, clicca qui: https://recruiting.welyk.tech/jobs/5813648-candidatura-spontanea
-- [Telegram](https://t.me/guidopenta)
-- [LinkedIn](https://www.linkedin.com/in/guido-penta/)
-- [Mail](mailto:guido@welyk.tech)
+
 
 ### Posizioni aperte
 
