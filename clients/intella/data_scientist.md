@@ -4,6 +4,8 @@
 |---------------------------|-------------|-----------|
 | [**Intella**](company.md) | Full remote | 50k - 60k | 
 
+Per candidarsi: https://recruiting.welyk.tech/jobs/5803033-data-scientist-intella
+
 As a Data Scientist, you’ll work on developing machine learning and statistical models for telemetry and satellite data.
 You’ll experiment with new approaches, refine existing solutions, and build libraries for advanced algorithms.
 Collaborating closely with Machine Learning Engineers and Data Engineers, you’ll ensure models are effectively deployed
