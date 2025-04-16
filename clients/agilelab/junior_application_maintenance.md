@@ -5,6 +5,8 @@
 | [**AgileLab**](company.md) | Full remote | 30k -40k | 
 
 
+https://recruiting.welyk.tech/jobs/5779576-junior-application-maintenance-agile-lab
+
 💻Responsibilities:
 
 
