@@ -4,6 +4,9 @@
 | [**Humans.tech**](company.md) | Full remote | 25k -44k | 
 
 
+Per candidarti: https://recruiting.welyk.tech/jobs/5803664-back-end-developer-humans-tech
+
+
 Humans.tech crea interfacce intelligenti che risolvono tematiche complesse e migliorano esperienze, oltre a essere ovviamente belle!
 Puntano a rivoluzionare il modo in cui persone e imprese interagiscono con la tecnologia.
 
